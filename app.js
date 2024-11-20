@@ -1,4 +1,5 @@
 import puppeteer from 'puppeteer';
+import fs from 'fs';
 
 async function scrapeJobListings() {
     const browser = await puppeteer.launch({ headless: true });
@@ -71,7 +72,8 @@ async function scrapeJobListings() {
         });
         return jobListings;
     });
-
+    fs.writeFileSync('jobListings.json', JSON.stringify(result, null, 2), 'utf-8');
+    console.log('Data saved to jobListings.json');
     console.log(result);
     await browser.close();
 }
