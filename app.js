@@ -9,11 +9,9 @@ async function scrapeJobListings() {
     const result = await page.evaluate(() => {
         const jobListings = [];
         const jobItems = document.querySelectorAll('.mb-4'); 
-
-        // Function to parse relative time (e.g., "4 hours ago", "48 minutes ago")
         const parseRelativeTime = (timeText) => {
             const now = new Date();
-            const match = timeText.match(/(\d+)\s(\w+)\sago/); // Match "X time ago"
+            const match = timeText.match(/(\d+)\s(\w+)\sago/);
             if (match) {
                 const value = parseInt(match[1], 10);
                 const unit = match[2].toLowerCase();
@@ -28,38 +26,29 @@ async function scrapeJobListings() {
                     now.setDate(now.getDate() - value * 7);
                 }
             }
-        
-            // Format the date to YYYY-MM-DD
             const year = now.getFullYear();
-            const month = (now.getMonth() + 1).toString().padStart(2, '0');  // Adding 1 as months are 0-indexed
-            const day = now.getDate().toString().padStart(2, '0');  // Pad single-digit days with leading zero
-        
+            const month = (now.getMonth() + 1).toString().padStart(2, '0'); 
+            const day = now.getDate().toString().padStart(2, '0');
             return `${year}-${month}-${day}`;
         };
-        
-
         jobItems.forEach(item => {
             const title = item.querySelector('.line-clamp-1')?.innerText.trim();
             const ulElement = item.querySelector('ul.ml-6.list-disc.text-gray-600');
             let descriptions = []; // Array to collect all descriptions
-        
             if (ulElement) {
-                // Get all <li> elements within the <ul>
                 const listItems = ulElement.querySelectorAll('li');
                 listItems.forEach(li => {
                     const pText = li.querySelector('p.line-clamp-1')?.innerText.trim();
                     if (pText) {
-                        descriptions.push(pText);  // Add each description to the array
+                        descriptions.push(pText); 
                     }
                 });
             }
             const dateText = item.querySelector('.whitespace-nowrap.text-sm.text-gray-400')?.innerText.trim();
-            const dateCreated = dateText ? parseRelativeTime(dateText) : null; // Parse the relative time
+            const dateCreated = dateText ? parseRelativeTime(dateText) : null;
             const techStacks = Array.from(item.querySelectorAll('.mr-2.inline-block'))
-                .map(stack => stack.innerText.trim())
-                .join(', ');
+                .map(stack => stack.innerText.trim());
             const company = item.querySelector('.mt-1.line-clamp-1')?.innerText.trim();
-
             if (title) {
                 jobListings.push({
                     title,
