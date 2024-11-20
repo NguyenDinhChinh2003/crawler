@@ -34,7 +34,7 @@ async function scrapeJobListings() {
         jobItems.forEach(item => {
             const title = item.querySelector('.line-clamp-1')?.innerText.trim();
             const ulElement = item.querySelector('ul.ml-6.list-disc.text-gray-600');
-            let descriptions = []; // Array to collect all descriptions
+            let descriptions = [];
             if (ulElement) {
                 const listItems = ulElement.querySelectorAll('li');
                 listItems.forEach(li => {
