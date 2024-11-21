@@ -61,7 +61,7 @@ async function scrapeJobListings() {
         });
         return jobListings;
     });
-    fs.writeFileSync('jobListings.json', JSON.stringify(result, null, 2), 'utf-8');
+    fs.writeFileSync('data/app.json', JSON.stringify(result, null, 2), 'utf-8');
     console.log('Data saved to jobListings.json');
     console.log(result);
     await browser.close();

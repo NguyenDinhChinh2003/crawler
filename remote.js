@@ -60,7 +60,7 @@ async function scrapeJobListings() {
     console.log(result);
 
     // Save result to JSON file
-    fs.writeFileSync("remote.json", JSON.stringify(result, null, 2), "utf-8");
+    fs.writeFileSync("data/remote.json", JSON.stringify(result, null, 2), "utf-8");
 
     await browser.close();
 }

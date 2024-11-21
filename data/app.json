@@ -1,0 +1,123 @@
+[
+  {
+    "title": "Manual Tester (Junior/Middle/Senior)",
+    "descriptions": [],
+    "dateCreated": "2024-11-21",
+    "techStacks": [
+      "SQL",
+      "Tester",
+      "Manual Tester"
+    ],
+    "company": "FPT Software"
+  },
+  {
+    "title": "TRUNG TÂM ĐỔI MỚI SÁNG TẠO - DEV LEAD JAVA",
+    "descriptions": [],
+    "dateCreated": "2024-11-21",
+    "techStacks": [
+      "PHP",
+      "Java",
+      ".NET"
+    ],
+    "company": "Tổng Công ty Bưu điện Việt Nam (Vietnam Post)"
+  },
+  {
+    "title": "[Da Nang] Team Leader",
+    "descriptions": [],
+    "dateCreated": "2024-11-21",
+    "techStacks": [
+      "PHP",
+      "C#",
+      ".NET",
+      "Laravel"
+    ],
+    "company": "CHI NHÁNH CÔNG TY TNHH PASONA TECH VIỆT NAM TẠI ĐÀ NẴNG"
+  },
+  {
+    "title": "Bridge Project Manager (BPM)",
+    "descriptions": [
+      "Competitive salary",
+      "Review salaries every 6 months",
+      "Macbook for all staff"
+    ],
+    "dateCreated": "2024-11-21",
+    "techStacks": [
+      "BrSE",
+      "Bridge SE",
+      "IT Comtor"
+    ],
+    "company": "VITALIFY ASIA ( Công ty TNHH Vitalify Á Châu)"
+  },
+  {
+    "title": "Java Technical Leader",
+    "descriptions": [],
+    "dateCreated": "2024-11-21",
+    "techStacks": [
+      "Java",
+      "Technical Leader",
+      "Java Spring"
+    ],
+    "company": "CÔNG TY TNHH SAMSUNG SDS VIỆT NAM"
+  },
+  {
+    "title": "DevOps Engineer",
+    "descriptions": [],
+    "dateCreated": "2024-11-21",
+    "techStacks": [
+      "Linux",
+      "Java",
+      "DevOps"
+    ],
+    "company": "NEYU Ltd.,"
+  },
+  {
+    "title": "Embedded Engineer (Automation Test)",
+    "descriptions": [],
+    "dateCreated": "2024-11-21",
+    "techStacks": [
+      "Automation Tester",
+      "Embedded Engineer",
+      "Autosar"
+    ],
+    "company": "FPT Software"
+  },
+  {
+    "title": "Technical Leader/ Technical Architect (Sign-on Bonus)",
+    "descriptions": [
+      "Sign-on bonus (1 Month-Salary): Until 31 March 2025",
+      "Working time: Mon-Fri, Hybrid working mode (WFH available)",
+      "13th Salary + Year-End Reward (a half month) + Excellent Bonus (up to 5 months)"
+    ],
+    "dateCreated": "2024-11-21",
+    "techStacks": [
+      "ReactJS",
+      "Japanese",
+      "Technical Leader",
+      "Technical Architect",
+      "Flutter"
+    ],
+    "company": "NEC Vietnam"
+  },
+  {
+    "title": "Viettel Telecom - Data Scientist",
+    "descriptions": [],
+    "dateCreated": "2024-11-21",
+    "techStacks": [
+      "Python",
+      "Machine Learning",
+      "Data Science"
+    ],
+    "company": "Viettel Group"
+  },
+  {
+    "title": "Viettel Telecom - Data Analyst",
+    "descriptions": [],
+    "dateCreated": "2024-11-21",
+    "techStacks": [
+      "SQL",
+      "Data Analytics",
+      "Big Data"
+    ],
+    "company": "Viettel Group"
+  }
+]

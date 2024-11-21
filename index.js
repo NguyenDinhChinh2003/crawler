@@ -17,7 +17,7 @@ async function scrapeJobListings() {
     console.log(result);
 
     // Ghi kết quả vào file JSON
-    fs.writeFileSync("result.json", JSON.stringify(result, null, 2), "utf-8");
+    fs.writeFileSync("data/index.json", JSON.stringify(result, null, 2), "utf-8");
 
     await browser.close();
 }
