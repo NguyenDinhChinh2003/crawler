@@ -1,123 +1,148 @@
 [
   {
-    "title": "Manual Tester (Junior/Middle/Senior)",
+    "title": "Global Service Desk",
     "descriptions": [],
-    "dateCreated": "2024-11-21",
+    "dateCreated": "2024-11-22",
     "techStacks": [
-      "SQL",
-      "Tester",
-      "Manual Tester"
+      "IT Administrator",
+      "Azure",
+      "Microsoft 365"
     ],
-    "company": "FPT Software"
+    "company": "SPS Vietnam Company Limited"
   },
   {
-    "title": "TRUNG TÂM ĐỔI MỚI SÁNG TẠO - DEV LEAD JAVA",
-    "descriptions": [],
-    "dateCreated": "2024-11-21",
-    "techStacks": [
-      "PHP",
-      "Java",
-      ".NET"
-    ],
-    "company": "Tổng Công ty Bưu điện Việt Nam (Vietnam Post)"
-  },
-  {
-    "title": "[Da Nang] Team Leader",
-    "descriptions": [],
-    "dateCreated": "2024-11-21",
-    "techStacks": [
-      "PHP",
-      "C#",
-      ".NET",
-      "Laravel"
-    ],
-    "company": "CHI NHÁNH CÔNG TY TNHH PASONA TECH VIỆT NAM TẠI ĐÀ NẴNG"
-  },
-  {
-    "title": "Bridge Project Manager (BPM)",
+    "title": "SEO Expert Consultant (Part-time)",
     "descriptions": [
-      "Competitive salary",
-      "Review salaries every 6 months",
-      "Macbook for all staff"
+      "Truly startup spirit. No bureaucracy, no hierarchy. Everyone is a leader here, you have the freedom to pursue and achieve your goals. Huge responsibilities from Day 1. Be the owner of your own learning curve. The possibilities are limitless and depend on you.",
+      "Working hour: 9:00 - 18:00, 5 work days per week, 12 annual leave days.",
+      "Competitive salary, 13-month salary."
     ],
-    "dateCreated": "2024-11-21",
+    "dateCreated": "2024-11-22",
     "techStacks": [
-      "BrSE",
-      "Bridge SE",
-      "IT Comtor"
+      "SEO",
+      "React",
+      "NextJS"
     ],
-    "company": "VITALIFY ASIA ( Công ty TNHH Vitalify Á Châu)"
+    "company": "Space T"
   },
   {
-    "title": "Java Technical Leader",
-    "descriptions": [],
-    "dateCreated": "2024-11-21",
-    "techStacks": [
-      "Java",
-      "Technical Leader",
-      "Java Spring"
-    ],
-    "company": "CÔNG TY TNHH SAMSUNG SDS VIỆT NAM"
-  },
-  {
-    "title": "DevOps Engineer",
-    "descriptions": [],
-    "dateCreated": "2024-11-21",
-    "techStacks": [
-      "Linux",
-      "Java",
-      "DevOps"
-    ],
-    "company": "NEYU Ltd.,"
-  },
-  {
-    "title": "Embedded Engineer (Automation Test)",
-    "descriptions": [],
-    "dateCreated": "2024-11-21",
-    "techStacks": [
-      "Automation Tester",
-      "Embedded Engineer",
-      "Autosar"
-    ],
-    "company": "FPT Software"
-  },
-  {
-    "title": "Technical Leader/ Technical Architect (Sign-on Bonus)",
+    "title": "Middle/Senior Front-end Web Developer",
     "descriptions": [
-      "Sign-on bonus (1 Month-Salary): Until 31 March 2025",
-      "Working time: Mon-Fri, Hybrid working mode (WFH available)",
-      "13th Salary + Year-End Reward (a half month) + Excellent Bonus (up to 5 months)"
+      "Truly startup spirit. No bureaucracy, no hierarchy. Everyone is a leader here, you have the freedom to pursue and achieve your goals. Huge responsibilities from Day 1. Be the owner of your own learning curve. The possibilities are limitless and depend on you.",
+      "Working hour: 9:00 - 18:00, 5 work days per week, 12 annual leave days.",
+      "Competitive salary, 13-month salary."
     ],
-    "dateCreated": "2024-11-21",
+    "dateCreated": "2024-11-22",
     "techStacks": [
+      "JavaScript",
       "ReactJS",
-      "Japanese",
-      "Technical Leader",
-      "Technical Architect",
-      "Flutter"
+      "TypeScript",
+      "NextJS"
     ],
-    "company": "NEC Vietnam"
+    "company": "Space T"
   },
   {
-    "title": "Viettel Telecom - Data Scientist",
-    "descriptions": [],
-    "dateCreated": "2024-11-21",
+    "title": "Senior React Frontend Engineer",
+    "descriptions": [
+      "Allowance: 80k/day after official promotion",
+      "Social insurance: 60% of basic salary",
+      "Holiday and Tet gifts"
+    ],
+    "dateCreated": "2024-11-22",
     "techStacks": [
-      "Python",
-      "Machine Learning",
-      "Data Science"
+      "Front-End",
+      "React"
     ],
-    "company": "Viettel Group"
+    "company": "TrinTech"
   },
   {
-    "title": "Viettel Telecom - Data Analyst",
+    "title": "Front-End Developer (ReactJS, VueJS, HTML)",
+    "descriptions": [
+      "Attractive salary and bonus will be discussed after going through CV & Interview",
+      "Review capacity annually and adjust salary increases according to work performance.",
+      "Korean language certificate bonus (TOPIK)"
+    ],
+    "dateCreated": "2024-11-22",
+    "techStacks": [
+      "JavaScript",
+      "ReactJS",
+      "VueJS"
+    ],
+    "company": "LG CNS Việt Nam"
+  },
+  {
+    "title": "SENIOR JAVA DEVELOPER [HCM]",
     "descriptions": [],
-    "dateCreated": "2024-11-21",
+    "dateCreated": "2024-11-22",
+    "techStacks": [
+      "Java",
+      "MongoDB",
+      "PostgreSql"
+    ],
+    "company": "VIHAT Technology"
+  },
+  {
+    "title": "Mid MTS (Mobile Trading System) Developer - Android/iOS",
+    "descriptions": [
+      "Competitive salary, salary review once a year",
+      "13th month salary and Annual Performance Bonus",
+      "MVP and Shining star awards at the end of year"
+    ],
+    "dateCreated": "2024-11-22",
+    "techStacks": [
+      "Android",
+      "iOS",
+      "JavaScript",
+      "Mobile"
+    ],
+    "company": "DaouKiwoom Innovation"
+  },
+  {
+    "title": "Senior Data Architect",
+    "descriptions": [
+      "A diverse and open working culture, where your true identity is celebrated.",
+      "Multiple career opportunities to rotate within Functions or cross-functions.",
+      "Your wellbeing will be taken care by our Health & Safety Team since Day 1."
+    ],
+    "dateCreated": "2024-11-22",
     "techStacks": [
       "SQL",
-      "Data Analytics",
-      "Big Data"
+      "Python",
+      "Azure",
+      "Data Architecture"
     ],
-    "company": "Viettel Group"
+    "company": "HEINEKEN Vietnam"
+  },
+  {
+    "title": "Supply Chain Digital BA (Management Level)",
+    "descriptions": [
+      "A diverse and open working culture, where your true identity is celebrated.",
+      "Multiple career opportunities to rotate within Functions or cross-functions.",
+      "Your wellbeing will be taken care by our Health & Safety Team since Day 1."
+    ],
+    "dateCreated": "2024-11-22",
+    "techStacks": [
+      "SQL",
+      "Agile & Scrum",
+      "English - Good"
+    ],
+    "company": "HEINEKEN Vietnam"
+  },
+  {
+    "title": "Middle Front-end Developer (ReactJS/VueJS)",
+    "descriptions": [
+      "Full SHUI as Vietnamese Law",
+      "Competitive salary, salary review once a year",
+      "13th month salary and Annual Performance Bonus based on business result"
+    ],
+    "dateCreated": "2024-11-22",
+    "techStacks": [
+      "Front-End",
+      "ReactJS",
+      "VueJS",
+      "TypeScript",
+      "NextJS"
+    ],
+    "company": "Applancer JSC - TopDev"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "title": "Backend Developer - Ruby on Rails",
+    "company": "GovCIO",
+    "dateCreated": "2024-11-22",
+    "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2018/11/government-cio-150x150.jpg"
+  },
+  {
+    "title": "Ruby Developer",
+    "company": "IntelliBridge",
+    "dateCreated": "2024-11-22",
+    "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/11/21193315/intellibridge_logo.jpeg"
+  },
+  {
     "title": "Associate Full Stack Engineer",
     "company": "Lockheed Martin",
     "dateCreated": "2024-11-19",
@@ -86,217 +98,205 @@
   {
     "title": "Staff Full Stack Engineer, Data Products",
     "company": "Stripe, Inc.",
-    "dateCreated": "2024-11-14",
+    "dateCreated": "2024-11-15",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2021/09/28143830/Taxjar-Logo-150x150.jpg"
   },
   {
     "title": "Ruby Developer",
     "company": "FranklinCovey",
-    "dateCreated": "2024-11-14",
+    "dateCreated": "2024-11-15",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2023/06/07210148/Franklin-Covey-Logo--150x150.jpeg"
   },
   {
     "title": "Senior Software Engineer - Ruby",
     "company": "Experian",
-    "dateCreated": "2024-11-14",
+    "dateCreated": "2024-11-15",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/01/21142258/experian_logo-150x150.jpeg"
   },
   {
     "title": "SaaS Front End Developer",
     "company": "WhatConverts",
-    "dateCreated": "2024-11-14",
+    "dateCreated": "2024-11-08",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/08/05185056/whatconverts_logo.jpeg"
   },
   {
     "title": "Senior Front End Engineer - React",
     "company": "Facet Wealth",
-    "dateCreated": "2024-11-14",
+    "dateCreated": "2024-11-08",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2023/09/29084153/Facet-Wealth-Logo.jpeg"
   },
   {
     "title": "Senior Associate Application Engineer (Backend)",
     "company": "Discover Financial Services",
-    "dateCreated": "2024-11-14",
+    "dateCreated": "2024-11-08",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/10/15182821/Discover-Logo.jpeg"
   },
   {
     "title": "Senior Software Engineer, Backend (Virtual Card Platform)",
     "company": "Affirm",
-    "dateCreated": "2024-11-14",
+    "dateCreated": "2024-11-08",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2023/07/28091720/affirm-Logo-150x150.jpeg"
   },
   {
     "title": "Backend Engineer",
     "company": "Code Metal, Inc.",
-    "dateCreated": "2024-11-07",
+    "dateCreated": "2024-11-08",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/11/06222837/code_metal_logo.jpeg"
   },
   {
     "title": "Backend Developer",
     "company": "Prescient Edge",
-    "dateCreated": "2024-11-07",
+    "dateCreated": "2024-11-08",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/11/06222321/prescient_edge_corp_logo.jpeg"
   },
   {
     "title": "Software Engineer - Backend",
     "company": "Pie Insurance",
-    "dateCreated": "2024-11-07",
+    "dateCreated": "2024-11-08",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/10/23073629/pieinsurance_logo.jpeg"
   },
   {
     "title": "Senior Software Engineer, Backend",
     "company": "Flex - Flexible Finance, Inc.",
-    "dateCreated": "2024-11-07",
+    "dateCreated": "2024-11-08",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/11/05204241/getflex_logo.jpeg"
   },
   {
     "title": "Staff Software Engineer, Backend - Growth",
     "company": "brightwheel",
-    "dateCreated": "2024-11-07",
+    "dateCreated": "2024-11-08",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/10/16212838/Brightwheel-Logo.jpeg"
   },
   {
     "title": "Senior Manager, Data Science",
     "company": "Atlassian",
-    "dateCreated": "2024-11-07",
+    "dateCreated": "2024-11-08",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/08/13182637/atlassian_logo.jpeg"
   },
   {
     "title": "Senior Java Full Stack Engineer",
     "company": "Cognizant",
-    "dateCreated": "2024-10-31",
+    "dateCreated": "2024-11-01",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2023/04/22195852/Cognizant-Logo-150x150.jpeg"
   },
   {
     "title": "Senior Full Stack Developer",
     "company": "MetaLab",
-    "dateCreated": "2024-10-31",
+    "dateCreated": "2024-11-01",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/03/06050942/metalab_logo.jpeg"
   },
   {
     "title": "Senior Python - Full Stack Developer - Django-focused",
     "company": "CloudLinux",
-    "dateCreated": "2024-10-31",
+    "dateCreated": "2024-11-01",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/11/02145911/cloudlinux_logo.jpeg"
   },
   {
     "title": "Full-stack Developer, Web & Mobile",
     "company": "Springboard Collaborative",
-    "dateCreated": "2024-10-31",
+    "dateCreated": "2024-11-01",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/11/02145210/springboard_collaborative_logo.jpeg"
   },
   {
     "title": "Senior Fullstack Software Engineer (Remote US Only)",
     "company": "Solace Health - Find Solace, Inc.",
-    "dateCreated": "2024-10-31",
+    "dateCreated": "2024-11-01",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/10/31075111/Solace-Health-Logo.jpeg"
   },
   {
     "title": "Senior Full-Stack Engineer",
     "company": "MANTL",
-    "dateCreated": "2024-10-31",
+    "dateCreated": "2024-11-01",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/11/02144244/mantl_logo.jpeg"
   },
   {
     "title": "Senior Full Stack Engineer",
     "company": "Chartbeat",
-    "dateCreated": "2024-10-31",
+    "dateCreated": "2024-11-01",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/11/02143829/Chartbeat-Logo.jpeg"
   },
   {
     "title": "Lead Frontend Engineer",
     "company": "Movable Ink",
-    "dateCreated": "2024-10-31",
+    "dateCreated": "2024-11-01",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2021/08/27093209/Movable_Ink-150x150.jpg"
   },
   {
     "title": "Front End Developer",
     "company": "Acoustic, L.P.",
-    "dateCreated": "2024-10-31",
+    "dateCreated": "2024-11-01",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/11/01185436/goacoustic_logo.jpeg"
   },
   {
     "title": "Backend Engineer I, Customer Experience",
     "company": "Included Health",
-    "dateCreated": "2024-10-31",
+    "dateCreated": "2024-11-01",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2022/08/02074307/Included-Health-Logo-150x150.jpeg"
   },
   {
     "title": "Senior Backend Engineer II",
     "company": "Degreed",
-    "dateCreated": "2024-10-31",
+    "dateCreated": "2024-11-01",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2023/11/12172234/Degreed-Logo.jpeg"
   },
   {
     "title": "Application Engineer (Back End)",
     "company": "Discover Financial Services",
-    "dateCreated": "2024-10-31",
+    "dateCreated": "2024-11-01",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/10/15182821/Discover-Logo.jpeg"
   },
   {
     "title": "Backend Software Engineer",
     "company": "CardFlight",
-    "dateCreated": "2024-10-31",
+    "dateCreated": "2024-11-01",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/08/17185247/cardflight_logo.jpeg"
   },
   {
     "title": "Intermediate Backend Engineer, Engineering Productivity",
     "company": "GitLab",
-    "dateCreated": "2024-10-31",
+    "dateCreated": "2024-11-01",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/10/13193527/gitlab_com_logo.jpeg"
   },
   {
     "title": "Senior Full Stack Software Engineer",
     "company": "Arine, Inc.",
-    "dateCreated": "2024-10-31",
+    "dateCreated": "2024-11-01",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/10/28202826/arinehealth_logo.jpeg"
   },
   {
     "title": "Senior Full Stack Engineer",
     "company": "Fluent",
-    "dateCreated": "2024-10-31",
+    "dateCreated": "2024-11-01",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/10/28200359/fluentinc_logo-150x150.jpeg"
   },
   {
     "title": "Sr. Software Engineer, Backend",
     "company": "Hims & Hers Health, Inc.",
-    "dateCreated": "2024-10-31",
+    "dateCreated": "2024-11-01",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/09/12075758/hims__hers_logo.jpeg"
   },
   {
     "title": "Senior SaaS Operations Engineer, Costpoint",
     "company": "Deltek",
-    "dateCreated": "2024-10-24",
+    "dateCreated": "2024-10-25",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/08/16085826/deltek_logo.jpeg"
   },
   {
     "title": "Staff Software Engineer (Full stack)",
     "company": "Scribd",
-    "dateCreated": "2024-11-21",
+    "dateCreated": "2024-11-22",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/10/01165508/Scribd-Logo.jpeg"
   },
   {
     "title": "Senior Full-Stack Engineer",
     "company": "Kroll",
-    "dateCreated": "2024-11-21",
+    "dateCreated": "2024-11-22",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/10/21195314/kroll_logo.jpeg"
   },
   {
     "title": "Senior Backend Developer, .NET - Azure",
     "company": "J.J. Keller and Associates",
-    "dateCreated": "2024-11-21",
+    "dateCreated": "2024-11-22",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/10/21192917/J.J-Keller-Associates-Logo-150x150.jpeg"
-  },
-  {
-    "title": "Backend Engineer III - Cloud",
-    "company": "CrowdStrike",
-    "dateCreated": "2024-11-21",
-    "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2023/10/25064412/CrowdStrike-Logo.jpeg"
-  },
-  {
-    "title": "Senior Web Frontend Engineer",
-    "company": "Empower Finance",
-    "dateCreated": "2024-11-21",
-    "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2022/08/29110450/Empower_Finance-150x150.jpg"
   }
 ]
