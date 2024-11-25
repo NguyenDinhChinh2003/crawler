@@ -1,5 +1,17 @@
 [
   {
+    "title": "Front-End Engineer",
+    "company": "Nebo Agency",
+    "dateCreated": "2024-11-25",
+    "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/09/17114317/nebo_agency_logo-150x150.png"
+  },
+  {
+    "title": "Frontend Engineer",
+    "company": "Rapptr Labs",
+    "dateCreated": "2024-11-25",
+    "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/01/01201955/rapptr_logo.jpeg"
+  },
+  {
     "title": "Application Engineer (Full Stack)",
     "company": "Discover Financial Services",
     "dateCreated": "2024-11-24",
@@ -8,25 +20,25 @@
   {
     "title": "Senior Full-Stack Developer (Angular and Node JS)",
     "company": "Softrams",
-    "dateCreated": "2024-11-24",
+    "dateCreated": "2024-11-23",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/08/01192640/softrams_llc_logo.jpeg"
   },
   {
     "title": "Manager, Software Engineering (SlideShare Core Team, Full-stack)",
     "company": "Scribd",
-    "dateCreated": "2024-11-24",
+    "dateCreated": "2024-11-23",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/10/01165508/Scribd-Logo.jpeg"
   },
   {
     "title": "Senior Full Stack Developer",
     "company": "Deque Systems",
-    "dateCreated": "2024-11-24",
+    "dateCreated": "2024-11-23",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2020/02/12103705/deque_systems-150x150.jpg"
   },
   {
     "title": "Senior Software Engineer - Web Video Players",
     "company": "Crunchyroll",
-    "dateCreated": "2024-11-24",
+    "dateCreated": "2024-11-23",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2023/10/03081849/Crunchyroll-Logo.jpeg"
   },
   {
@@ -286,17 +298,5 @@
     "company": "Arine, Inc.",
     "dateCreated": "2024-10-28",
     "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/10/28202826/arinehealth_logo.jpeg"
-  },
-  {
-    "title": "Senior Full Stack Engineer",
-    "company": "Fluent",
-    "dateCreated": "2024-10-28",
-    "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/10/28200359/fluentinc_logo-150x150.jpeg"
-  },
-  {
-    "title": "Sr. Software Engineer, Backend",
-    "company": "Hims & Hers Health, Inc.",
-    "dateCreated": "2024-10-28",
-    "link_image": "https://remoteco.s3.amazonaws.com/wp-content/uploads/2024/09/12075758/hims__hers_logo.jpeg"
   }
 ]
