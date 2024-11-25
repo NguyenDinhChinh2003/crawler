@@ -1,148 +1,134 @@
 [
   {
-    "title": "Global Service Desk",
+    "title": "Senior Backend Developer (NodeJS)",
     "descriptions": [],
-    "dateCreated": "2024-11-22",
+    "dateCreated": "2024-11-25",
     "techStacks": [
-      "IT Administrator",
-      "Azure",
-      "Microsoft 365"
+      "NodeJS",
+      "My SQL",
+      "Restful Api"
     ],
-    "company": "SPS Vietnam Company Limited"
+    "company": "Floware"
   },
   {
-    "title": "SEO Expert Consultant (Part-time)",
-    "descriptions": [
-      "Truly startup spirit. No bureaucracy, no hierarchy. Everyone is a leader here, you have the freedom to pursue and achieve your goals. Huge responsibilities from Day 1. Be the owner of your own learning curve. The possibilities are limitless and depend on you.",
-      "Working hour: 9:00 - 18:00, 5 work days per week, 12 annual leave days.",
-      "Competitive salary, 13-month salary."
-    ],
-    "dateCreated": "2024-11-22",
-    "techStacks": [
-      "SEO",
-      "React",
-      "NextJS"
-    ],
-    "company": "Space T"
-  },
-  {
-    "title": "Middle/Senior Front-end Web Developer",
-    "descriptions": [
-      "Truly startup spirit. No bureaucracy, no hierarchy. Everyone is a leader here, you have the freedom to pursue and achieve your goals. Huge responsibilities from Day 1. Be the owner of your own learning curve. The possibilities are limitless and depend on you.",
-      "Working hour: 9:00 - 18:00, 5 work days per week, 12 annual leave days.",
-      "Competitive salary, 13-month salary."
-    ],
-    "dateCreated": "2024-11-22",
-    "techStacks": [
-      "JavaScript",
-      "ReactJS",
-      "TypeScript",
-      "NextJS"
-    ],
-    "company": "Space T"
-  },
-  {
-    "title": "Senior React Frontend Engineer",
-    "descriptions": [
-      "Allowance: 80k/day after official promotion",
-      "Social insurance: 60% of basic salary",
-      "Holiday and Tet gifts"
-    ],
-    "dateCreated": "2024-11-22",
-    "techStacks": [
-      "Front-End",
-      "React"
-    ],
-    "company": "TrinTech"
-  },
-  {
-    "title": "Front-End Developer (ReactJS, VueJS, HTML)",
-    "descriptions": [
-      "Attractive salary and bonus will be discussed after going through CV & Interview",
-      "Review capacity annually and adjust salary increases according to work performance.",
-      "Korean language certificate bonus (TOPIK)"
-    ],
-    "dateCreated": "2024-11-22",
-    "techStacks": [
-      "JavaScript",
-      "ReactJS",
-      "VueJS"
-    ],
-    "company": "LG CNS Việt Nam"
-  },
-  {
-    "title": "SENIOR JAVA DEVELOPER [HCM]",
+    "title": "Middle Game Developer",
     "descriptions": [],
-    "dateCreated": "2024-11-22",
+    "dateCreated": "2024-11-25",
+    "techStacks": [
+      "Unity",
+      "C#",
+      "Game Developer"
+    ],
+    "company": "Archer Game Studio"
+  },
+  {
+    "title": "Senior Fullstack Developer",
+    "descriptions": [
+      "Attractive salary and benefits. Competitive Basic Salary; 13th Salary; Lunch, Gasoline and Telephone allowance; Incentive Bonus and annual salary review.",
+      "Premium Healthcare for you, 100% covered by the company. Annual medical checking up to USD 5,000 per year.",
+      "Full package: Full government social, health and unemployment insurance."
+    ],
+    "dateCreated": "2024-11-25",
     "techStacks": [
       "Java",
-      "MongoDB",
-      "PostgreSql"
-    ],
-    "company": "VIHAT Technology"
-  },
-  {
-    "title": "Mid MTS (Mobile Trading System) Developer - Android/iOS",
-    "descriptions": [
-      "Competitive salary, salary review once a year",
-      "13th month salary and Annual Performance Bonus",
-      "MVP and Shining star awards at the end of year"
-    ],
-    "dateCreated": "2024-11-22",
-    "techStacks": [
-      "Android",
-      "iOS",
-      "JavaScript",
-      "Mobile"
-    ],
-    "company": "DaouKiwoom Innovation"
-  },
-  {
-    "title": "Senior Data Architect",
-    "descriptions": [
-      "A diverse and open working culture, where your true identity is celebrated.",
-      "Multiple career opportunities to rotate within Functions or cross-functions.",
-      "Your wellbeing will be taken care by our Health & Safety Team since Day 1."
-    ],
-    "dateCreated": "2024-11-22",
-    "techStacks": [
-      "SQL",
-      "Python",
-      "Azure",
-      "Data Architecture"
-    ],
-    "company": "HEINEKEN Vietnam"
-  },
-  {
-    "title": "Supply Chain Digital BA (Management Level)",
-    "descriptions": [
-      "A diverse and open working culture, where your true identity is celebrated.",
-      "Multiple career opportunities to rotate within Functions or cross-functions.",
-      "Your wellbeing will be taken care by our Health & Safety Team since Day 1."
-    ],
-    "dateCreated": "2024-11-22",
-    "techStacks": [
-      "SQL",
-      "Agile & Scrum",
-      "English - Good"
-    ],
-    "company": "HEINEKEN Vietnam"
-  },
-  {
-    "title": "Middle Front-end Developer (ReactJS/VueJS)",
-    "descriptions": [
-      "Full SHUI as Vietnamese Law",
-      "Competitive salary, salary review once a year",
-      "13th month salary and Annual Performance Bonus based on business result"
-    ],
-    "dateCreated": "2024-11-22",
-    "techStacks": [
-      "Front-End",
+      "JQuery",
       "ReactJS",
-      "VueJS",
-      "TypeScript",
-      "NextJS"
+      "Spring",
+      "Spring Boot"
     ],
-    "company": "Applancer JSC - TopDev"
+    "company": "CJ OLIVENETWORKS VINA CO., LTD."
+  },
+  {
+    "title": "Trưởng Bộ phận Quản lý An ninh thông tin",
+    "descriptions": [],
+    "dateCreated": "2024-11-25",
+    "techStacks": [
+      "IT Security",
+      "System Security",
+      "Application Security"
+    ],
+    "company": "Ngân Hàng TMCP Đông Á (DongA Bank)"
+  },
+  {
+    "title": "CHUYÊN VIÊN IT DEVOPS",
+    "descriptions": [],
+    "dateCreated": "2024-11-25",
+    "techStacks": [
+      "Python",
+      "DevOps",
+      "CI/CD"
+    ],
+    "company": "CÔNG TY TNHH LIÊN DOANH XÚC TIẾN ĐẦU TƯ VÀ HỢP TÁC QUỐC TẾ FDI"
+  },
+  {
+    "title": "Chuyên viên Bảo mật (Red Team) – Mã vị trí CNTT10 (số lượng 02)",
+    "descriptions": [
+      "Lương tháng 13 (Trung bình 4-5 tháng lương cơ bản)",
+      "Được hưởng lương, thưởng và các cơ chế khuyến khích theo thỏa thuận và theo quy định của Ngân hàng TMCP Đầu tư và Phát triển Việt Nam.",
+      "Được chi bổ sung thu nhập theo kết quả làm việc, vị trí công việc và theo quy định của BIDV."
+    ],
+    "dateCreated": "2024-11-25",
+    "techStacks": [
+      "Manual Test",
+      "OWASP",
+      "bash"
+    ],
+    "company": "Trung tâm Công nghệ thông tin BIDV"
+  },
+  {
+    "title": "Chuyên viên bảo mật (Blue Team) – Mã vị trí CNTT12 (số lượng 04)",
+    "descriptions": [
+      "Lương tháng 13 (Trung bình 4-5 tháng lương cơ bản)",
+      "Được hưởng lương, thưởng và các cơ chế khuyến khích theo thỏa thuận và theo quy định của Ngân hàng TMCP Đầu tư và Phát triển Việt Nam.",
+      "Được chi bổ sung thu nhập theo kết quả làm việc, vị trí công việc và theo quy định của BIDV."
+    ],
+    "dateCreated": "2024-11-25",
+    "techStacks": [
+      "IT Security",
+      "OWASP",
+      "System Security"
+    ],
+    "company": "Trung tâm Công nghệ thông tin BIDV"
+  },
+  {
+    "title": "Chuyên viên bảo mật dữ liệu cá nhân– Mã vị trí CNTT14 (số lượng 01)",
+    "descriptions": [
+      "Lương tháng 13 (Trung bình 4-5 tháng lương cơ bản)",
+      "Được hưởng lương, thưởng và các cơ chế khuyến khích theo thỏa thuận và theo quy định của Ngân hàng TMCP Đầu tư và Phát triển Việt Nam.",
+      "Được chi bổ sung thu nhập theo kết quả làm việc, vị trí công việc và theo quy định của BIDV."
+    ],
+    "dateCreated": "2024-11-25",
+    "techStacks": [
+      "IT Security",
+      "System Security"
+    ],
+    "company": "Trung tâm Công nghệ thông tin BIDV"
+  },
+  {
+    "title": "Chuyên viên đánh giá bảo mật ứng dụng– Mã vị trí CNTT07 (số lượng 03)",
+    "descriptions": [
+      "Lương tháng 13 (Trung bình 4-5 tháng lương cơ bản)",
+      "Được hưởng lương, thưởng và các cơ chế khuyến khích theo thỏa thuận và theo quy định của Ngân hàng TMCP Đầu tư và Phát triển Việt Nam.",
+      "Được chi bổ sung thu nhập theo kết quả làm việc, vị trí công việc và theo quy định của BIDV."
+    ],
+    "dateCreated": "2024-11-25",
+    "techStacks": [
+      "IT Security",
+      "OWASP",
+      "Security Engineer",
+      "Application Security"
+    ],
+    "company": "Trung tâm Công nghệ thông tin BIDV"
+  },
+  {
+    "title": "Flutter Developer",
+    "descriptions": [],
+    "dateCreated": "2024-11-25",
+    "techStacks": [
+      "Mobile",
+      "Flutter",
+      "Dart"
+    ],
+    "company": "CÔNG TY TNHH SAMSUNG SDS VIỆT NAM"
   }
 ]
