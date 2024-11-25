@@ -7,6 +7,7 @@
     "start_app": "node app.js",
     "start_index": "node index.js",
     "start_remote": "node remote.js",
+    "start_aniday": "node aniday.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

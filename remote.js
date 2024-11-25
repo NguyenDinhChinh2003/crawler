@@ -102,28 +102,29 @@ async function getDescription(descriptionLink, browser) {
     await page.goto(descriptionLink, { waitUntil: "domcontentloaded" });
     await page.waitForSelector(".job_description");
 
+    // Get all the text within each job_description element, joined by <br>
     const result = await page.evaluate(() => {
-        const description = Array.from(document.querySelectorAll(".job_description p"))
-            .map(p => p.innerText.trim())
-            .join("<br>");
-        return description;
+        const descriptions = Array.from(document.querySelectorAll(".job_description"));
+        return descriptions.map(desc => desc.innerText.trim()).join("<br>");
     });
 
-    await page.close(); // Đóng trang sau khi lấy dữ liệu
+    await page.close(); // Close the page after extracting data
     return result;
 }
+
+
 
 async function getStack(descriptionLink, browser) {
     const page = await browser.newPage();
     await page.goto(descriptionLink, { waitUntil: "domcontentloaded" });
     await page.waitForSelector(".job_description");
 
-    const result = await page.evaluate(() => {
-        const stack = Array.from(document.querySelectorAll(".job_description ul li"))
-            .map(li => li.innerText.trim());
-        return stack;
-    });
-
+    // const result = await page.evaluate(() => {
+    //     const stack = Array.from(document.querySelectorAll(""))
+    //         .map(li => li.innerText.trim());
+    //     return stack;
+    // });
+    const result = [];
     await page.close(); // Đóng trang sau khi lấy dữ liệu
     return result;
 }
