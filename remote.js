@@ -5,11 +5,12 @@ async function scrapeJobListings() {
     const browser = await puppeteer.launch({ headless: true });
     const page = await browser.newPage();
     await page.goto("https://remote.co/remote-jobs/developer/", { waitUntil: "domcontentloaded" });
-    await autoScroll(page);
+    await page.waitForSelector(".row.no-gutters.align-items-center"); // Ensure job listing elements are loaded
+    await autoScroll(page); // Scroll to load all listings
 
     const result = await page.evaluate(() => {
         const remoteJob = [];
-        const companyItem = document.querySelectorAll(".row.no-gutters.align-items-center");
+        const companyItems = document.querySelectorAll(".card.m-0.border-left-0.border-right-0.border-top-0.border-bottom"); // Select the <a> with card class
 
         const parseRelativeTime = (timeText) => {
             const now = new Date();
@@ -34,33 +35,55 @@ async function scrapeJobListings() {
             return `${year}-${month}-${day}`;
         };
 
-        companyItem.forEach((item) => {
+        companyItems.forEach((item) => {
+            // Get the job title
             const title = item.querySelector(".font-weight-bold.larger")?.innerText.trim();
+
+            // Get the job description link (href attribute of <a> tag)
+            const descriptionLink = "https://remote.co" + item.getAttribute("href");
+
+            // Get the company information
             const companyElement = item.querySelector(".m-0.text-secondary");
             const companyText = companyElement?.textContent.trim();
             const company = companyText ? companyText.split("|")[0].trim() : null;
+
+            // Get the relative date
             const dateText = item.querySelector(".float-right.d-none.d-md-inline.text-secondary")?.innerText.trim();
             const dateCreated = dateText ? parseRelativeTime(dateText) : null;
 
-            // Directly query the image element
+            // Get the image source URL
             const imageElement = item.querySelector("img.card-img");
-            const link_image = imageElement?.getAttribute("src") || imageElement?.getAttribute("data-src") || null;
+            const linkImage = imageElement?.getAttribute("src") || imageElement?.getAttribute("data-src") || null;
 
             remoteJob.push({
                 title,
+                descriptionLink, // Store the description link here
                 company,
                 dateCreated,
-                link_image,
+                linkImage,
             });
         });
 
         return remoteJob;
     });
 
-    console.log(result);
+    // Now fetch the description and stack for each job listing
+    const jobDetails = [];
+    for (const job of result) {
+        const description = await getDescription(job.descriptionLink);
+        const stack = await getStack(job.descriptionLink);
+        
+        jobDetails.push({
+            ...job,
+            description,
+            stack
+        });
+    }
 
-    // Save result to JSON file
-    fs.writeFileSync("data/remote.json", JSON.stringify(result, null, 2), "utf-8");
+    console.log(jobDetails);
+
+    // Save result to a JSON file
+    fs.writeFileSync("data/remote.json", JSON.stringify(jobDetails, null, 2), "utf-8");
 
     await browser.close();
 }
@@ -82,6 +105,37 @@ async function autoScroll(page) {
             }, 100);
         });
     });
+}
+
+async function getDescription(descriptionLink) {
+    const browser = await puppeteer.launch({ headless: true });
+    const page = await browser.newPage();
+    await page.goto(descriptionLink, { waitUntil: "domcontentloaded" });
+    await page.waitForSelector(".job_description"); // Ensure job listing elements are loaded
+
+    const result = await page.evaluate(() => {
+        const description = Array.from(document.querySelectorAll(".job_description p"))
+            .map(p => p.innerText.trim())
+            .join("<br>");
+        return description;
+    });
+    await browser.close(); // Close the browser after scraping
+    return result;
+}
+
+async function getStack(descriptionLink) {
+    const browser = await puppeteer.launch({ headless: true });
+    const page = await browser.newPage();
+    await page.goto(descriptionLink, { waitUntil: "domcontentloaded" });
+    await page.waitForSelector(".job_description"); // Ensure job listing elements are loaded
+
+    const result = await page.evaluate(() => {
+        const stack = Array.from(document.querySelectorAll(".job_description ul li"))
+            .map(li => li.innerText.trim());
+        return stack;
+    });
+    await browser.close(); // Close the browser after scraping
+    return result;
 }
 
 scrapeJobListings();
