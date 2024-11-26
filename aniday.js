@@ -55,13 +55,22 @@ async function scrapeJobListings() {
 
 async function getDescription(detailLink, browser) {
     if (!detailLink) return "No detail link provided";
+
     const page = await browser.newPage();
     try {
         await page.goto(detailLink, { waitUntil: "domcontentloaded" });
         const description = await page.evaluate(() => {
-            const rawDescription = document.querySelector(".mct-posses")?.innerHTML.trim() || "Description not found";
-            // Thay thế xuống dòng bằng thẻ <br>
-            return rawDescription.replace(/\n/g, "<br>");
+            // Lấy tất cả các thẻ có class 'ss-job-descr-item'
+            const items = document.querySelectorAll('.ss-job-descr-item');
+            if (!items.length) return "Description not found";
+            // Lấy nội dung mỗi thẻ <p> có class 'mct-posses' trong mỗi phần tử 'ss-job-descr-item'
+            return Array.from(items)
+                .map(item => {
+                    const title = item.querySelector('h2, h3')?.innerText.trim();  // Lấy tiêu đề (h2 hoặc h3)
+                    const content = item.querySelector('.mct-posses')?.innerHTML.trim() || ''; // Lấy nội dung mô tả
+                    const formattedContent = content.replace(/\n/g, '<br>');
+                    return `<h3>${title}</h3><p>${formattedContent}</p>`;  // Đảm bảo kết quả có tiêu đề và nội dung
+                }).join('');  // Kết hợp nội dung mỗi phần tử bằng <br>
         });
         return description;
     } catch (error) {
@@ -71,6 +80,7 @@ async function getDescription(detailLink, browser) {
         await page.close();
     }
 }
+
 async function getTechStack(detailLink, browser) {
     if (!detailLink) return "No detail link provided";
     const page = await browser.newPage();
