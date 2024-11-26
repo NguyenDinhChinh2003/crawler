@@ -3,120 +3,288 @@
     "title": "Software Developer (Full Stack)",
     "company": "Anonymous",
     "detail_link": null,
-    "bgImageData": "/assets/img/enterprise.jpg"
+    "description": "No detail link provided",
+    "techStacks": "No detail link provided"
   },
   {
     "title": "Senior Oracle EBS",
     "company": "HIPTECH SOLUTION",
     "detail_link": "https://aniday.com/en/job/senior-oracle-ebs-11244",
-    "bgImageData": "image-set(url('https://static.aniday.com/uploads/images/size30/088c57e996614a57ae1b993a1e058352_20241028024223.webp') 1x, url('https://static.aniday.com/uploads/images/size50/088c57e996614a57ae1b993a1e058352_20241028024223.webp') 2x, url('https://static.aniday.com/uploads/images/size70/088c57e996614a57ae1b993a1e058352_20241028024223.webp') 3x)"
+    "image": "https://static.aniday.com/uploads/images/size70/088c57e996614a57ae1b993a1e058352_20241028024223.webp",
+    "description": "Our customer is a big computer peripheral manufacturer in the US. They have B2B and B2C business with clients all over the world with their factories in US, China, Taiwan and their warehouses in US, UK, China and Taiwan.<br>We are looking for senior Oracle EBS engineers/consultant to join the team for long-term jobs working on our customer Oracle EBS (12.2) system.<br><br>Job Responsibilities: <br> Perform the work of a Senior Oracle EBS with 80% on technical development and 20% on consulting and support.<br> Join project development to expand Oracle EBS operation by integrating with other systems via EDI / API or add new/customize existing business logic for OM, INV, PO, WIP modules.<br> Monitor and resolve operation issues related to orders, shipment, invoice, MES orders, working directly with business users.<br> Implement the integration with 3PL warehouses.<br> Collaborate with customer’s VN, US and Taiwan team for requirement clarification, technical design and discussion.<br> Create technical design documentation, test cases, perform unit testing and support end-to-end testing.",
+    "techStacks": [
+      "Backend",
+      "APIs",
+      "Debugging",
+      "SQL",
+      "Oracle"
+    ]
   },
   {
     "title": "Web Developer (Linux/BASH/PHP/SQL)",
     "company": "PGT Solutions",
     "detail_link": "https://aniday.com/en/job/web-developer-linux-bash-php-sql-11191",
-    "bgImageData": "image-set(url('https://static.aniday.com/uploads/images/size30/39e38e12d6b44af19fc1f46f6ffd21e8_20241023083021.webp') 1x, url('https://static.aniday.com/uploads/images/size50/39e38e12d6b44af19fc1f46f6ffd21e8_20241023083021.webp') 2x, url('https://static.aniday.com/uploads/images/size70/39e38e12d6b44af19fc1f46f6ffd21e8_20241023083021.webp') 3x)"
+    "image": "https://static.aniday.com/uploads/images/size70/39e38e12d6b44af19fc1f46f6ffd21e8_20241023083021.webp",
+    "description": "Repair and new development support for core systems for distribution and retail.",
+    "techStacks": [
+      "Developer",
+      "PHP",
+      "Web Development",
+      "Linux",
+      "Design",
+      "SQL",
+      "Bash"
+    ]
   },
   {
     "title": "Java Developer",
     "company": "PGT Solutions",
     "detail_link": "https://aniday.com/en/job/java-developer-11189",
-    "bgImageData": "image-set(url('https://static.aniday.com/uploads/images/size30/39e38e12d6b44af19fc1f46f6ffd21e8_20241023083021.webp') 1x, url('https://static.aniday.com/uploads/images/size50/39e38e12d6b44af19fc1f46f6ffd21e8_20241023083021.webp') 2x, url('https://static.aniday.com/uploads/images/size70/39e38e12d6b44af19fc1f46f6ffd21e8_20241023083021.webp') 3x)"
+    "image": "https://static.aniday.com/uploads/images/size70/39e38e12d6b44af19fc1f46f6ffd21e8_20241023083021.webp",
+    "description": "Expanded functionality related to the UGC platform.<br>Design, development and testing work to develop new functionality and extend existing functionality.<br>Prepare and store documents related to the above content.",
+    "techStacks": [
+      "Developer",
+      "Scrum",
+      "Spring Boot",
+      "Java",
+      "MySQL"
+    ]
   },
   {
     "title": "IOS Developer (Swift)",
     "company": "PGT Solutions",
     "detail_link": "https://aniday.com/en/job/ios-developer-swift-11188",
-    "bgImageData": "image-set(url('https://static.aniday.com/uploads/images/size30/39e38e12d6b44af19fc1f46f6ffd21e8_20241023083021.webp') 1x, url('https://static.aniday.com/uploads/images/size50/39e38e12d6b44af19fc1f46f6ffd21e8_20241023083021.webp') 2x, url('https://static.aniday.com/uploads/images/size70/39e38e12d6b44af19fc1f46f6ffd21e8_20241023083021.webp') 3x)"
+    "image": "https://static.aniday.com/uploads/images/size70/39e38e12d6b44af19fc1f46f6ffd21e8_20241023083021.webp",
+    "description": "iOS development support for email application development team.<br>Develop additional functions, modify functions, and perform operation and maintenance.<br>Support iOS application development for user email services.",
+    "techStacks": [
+      "Developer",
+      "iOS Development",
+      "Swift",
+      "Git"
+    ]
   },
   {
     "title": "Senior iOS Native Engineer (Swift)",
     "company": "Reeracoen Vietnam",
     "detail_link": "https://aniday.com/en/job/senior-ios-native-engineer-swift-11130",
-    "bgImageData": "image-set(url('https://static.aniday.com/uploads/images/size30/41efcae289ef4498960059274d8fa8ac_20241018023032.webp') 1x, url('https://static.aniday.com/uploads/images/size50/41efcae289ef4498960059274d8fa8ac_20241018023032.webp') 2x, url('https://static.aniday.com/uploads/images/size70/41efcae289ef4498960059274d8fa8ac_20241018023032.webp') 3x)"
+    "image": "https://static.aniday.com/uploads/images/size70/41efcae289ef4498960059274d8fa8ac_20241018023032.webp",
+    "description": "【Job Summary】<br>- Responsible for developing the application in cooperation with the product manager. Working in the form of Squad, a small team can quickly and consistently engage in everything from design to development, testing, and operation.<br><br>【Main responsibilities】<br>1. Job Scope<br>- Development of applications using Swift<br>- API design/implementation linked with the backend<br>- Propose and implement new features and improvements<br>- Team development in collaboration with project managers, designers, and QA<br>- Refactoring of existing applications, enhancements Cost reduction of regression testing by implementing appropriate test code<br>- Continuously learn about technical trends and industry best practices and apply them to the product<br><br>Note: The assigned product will be determined based on the candidate's skills and preferences, as well as the internal structure of the company.",
+    "techStacks": []
   },
   {
     "title": "Full Stack Engineer",
     "company": "Momos",
     "detail_link": "https://aniday.com/en/job/full-stack-engineer-11084",
-    "bgImageData": "image-set(url('https://static.aniday.com/uploads/images/size30/fafad1f0137847f09a399f5cd6ba4e82_20241017050717.webp') 1x, url('https://static.aniday.com/uploads/images/size50/fafad1f0137847f09a399f5cd6ba4e82_20241017050717.webp') 2x, url('https://static.aniday.com/uploads/images/size70/fafad1f0137847f09a399f5cd6ba4e82_20241017050717.webp') 3x)"
+    "image": "https://static.aniday.com/uploads/images/size70/fafad1f0137847f09a399f5cd6ba4e82_20241017050717.webp",
+    "description": "The Role:<br>The Product Engineering team is looking for a full-stack engineer to drive meaningful impact for our customers. As a full-stack engineer, you will own design, implementation, and operation of key platform features. We are looking for self motivated individuals from all backgrounds, who are prepared to take on the challenges and opportunities that come from working in a fast paced, early stage startup. Success in this role will lead to increased responsibility and leadership opportunities as Momos continues to scale.<br><br>Primary Role &amp; Responsibilities:<br>Build powerful web applications using ReactJS and NodeJS<br>Contribute to technical architecture design for our new products and enhancements to current products<br>Collaborate closely with other software engineers, product managers, and designers<br>Help other engineers on the team via mentorship, code pairs and code reviews<br>Hustle - plain and simple",
+    "techStacks": [
+      "Enginering",
+      "Software Development",
+      "Applications",
+      "Web Development",
+      "Azure",
+      "AWS",
+      "Cloud",
+      "NoSQL",
+      "FrontEnd",
+      "NodeJS",
+      "Backend",
+      "GCP"
+    ]
   },
   {
     "title": "Senior/ Mid Backend Engineer (Hanoi | Remote)",
     "company": "Breadstack",
     "detail_link": "https://aniday.com/en/job/senior-mid-backend-engineer-hanoi-remote-11068",
-    "bgImageData": "image-set(url('https://static.aniday.com/uploads/images/size30/201eda78952b478c9423f17c929ca701_20241011072535.webp') 1x, url('https://static.aniday.com/uploads/images/size50/201eda78952b478c9423f17c929ca701_20241011072535.webp') 2x, url('https://static.aniday.com/uploads/images/size70/201eda78952b478c9423f17c929ca701_20241011072535.webp') 3x)"
+    "image": "https://static.aniday.com/uploads/images/size70/201eda78952b478c9423f17c929ca701_20241011072535.webp",
+    "description": "- Design, develop, and maintain backend services and APIs using Python.  <br>- Collaborate with frontend developers to integrate user-facing elements with server-side logic.  <br>- Optimize performance and scalability of the backend systems to handle large volumes of data and high traffic.  <br>- Implement security best practices to protect sensitive data and ensure compliance with industry standards.  <br>- Write clean, maintainable, and well-documented code, following best practices in software development.  <br>- Participate in code reviews, providing constructive feedback to peers and junior developers.  <br>- Work closely with the DevOps team to ensure smooth deployment and operation of services.  <br>- Troubleshoot and debug complex issues, identifying root causes and implementing effective solutions.  <br>- Contribute to the architecture and design of new features and enhancements to the platform.  <br>- Stay up-to-date with the latest industry trends and technologies, and apply them to improve our systems.",
+    "techStacks": []
   },
   {
     "title": "Data Engineer (Talend) - Remote",
     "company": "Aperia Vietnam",
     "detail_link": "https://aniday.com/en/job/data-engineer-talend-remote-11058",
-    "bgImageData": "image-set(url('https://static.aniday.com/uploads/images/size30/1a4163f969ed4976894581f38a18e93a_20191021140254.webp') 1x, url('https://static.aniday.com/uploads/images/size50/1a4163f969ed4976894581f38a18e93a_20191021140254.webp') 2x, url('https://static.aniday.com/uploads/images/size70/1a4163f969ed4976894581f38a18e93a_20191021140254.webp') 3x)"
+    "image": "https://static.aniday.com/uploads/images/size70/1a4163f969ed4976894581f38a18e93a_20191021140254.webp",
+    "description": "At Aperia, we rely on a dynamic team of developers. We’re seeking a Data Engineer (Talend) who possesses strong experience using Talend and is ready to work with new technologies and architectures in a forward-thinking organization that’s always pushing boundaries. <br><br>Core Responsibilities<br>Key Responsibilities:<br>Design, develop, test, and deploy new ETL pipelines or enhancements to existing pipelines using Talend.<br>Perform application software development, which includes new development, maintenance and support of applications and provide production support<br>Translate functional requirements into technical designs<br>Perform end to end automation of ETL process for various datasets that are being ingested into the big data platform<br>Develop and integrate software applications using suitable development methodologies and standards, applying standard architectural patterns, considering critical performance characteristics and security measures<br>Resolve customer complaints with data and respond to suggestions for improvements and enhancements<br>Recommend strategies for technical aspects of projects as well as broad system improvements<br>Ensures adherence to established standards and may consult with senior managers on technology solutions.<br><br>This job description is not intended to be all-inclusive. An employee may also perform other reasonable related business duties as assigned by their immediate supervisor or management. Principals only.",
+    "techStacks": [
+      "Enginering",
+      "Linux",
+      "CI/CD",
+      "Hive",
+      "REST",
+      "SQL",
+      "Java",
+      "Data Modeling",
+      "DevOps",
+      "Oracle",
+      "GitLab",
+      "API",
+      "Hadoop",
+      "Talend Administration Center",
+      "Talend Data Integration",
+      "Information Technology",
+      "Data Architecture",
+      "Unix shell",
+      "API",
+      "Shell Script"
+    ]
   },
   {
     "title": "Senior Full Stack Developer (Java/ReactJS) - Remote",
     "company": "Aperia Vietnam",
     "detail_link": "https://aniday.com/en/job/senior-full-stack-developer-java-reactjs-remote-11057",
-    "bgImageData": "image-set(url('https://static.aniday.com/uploads/images/size30/1a4163f969ed4976894581f38a18e93a_20191021140254.webp') 1x, url('https://static.aniday.com/uploads/images/size50/1a4163f969ed4976894581f38a18e93a_20191021140254.webp') 2x, url('https://static.aniday.com/uploads/images/size70/1a4163f969ed4976894581f38a18e93a_20191021140254.webp') 3x)"
+    "image": "https://static.aniday.com/uploads/images/size70/1a4163f969ed4976894581f38a18e93a_20191021140254.webp",
+    "description": "At Aperia, we rely on a dynamic team of developers. We’re seeking a Senior Java Developer (Spring Boot, ReactJS) who is ready to work with new technologies and architectures in a forward-thinking organization that’s always pushing boundaries. <br><br>- Full lifecycle management of middleware (micro) services, including analysis, design, development, testing, and implementation of new features or enhancements.<br>- Ensure middleware modules and services adhere to code quality standards.<br>- Maintain applications free from security vulnerabilities in alignment with the organization's security policies.<br>- Assist in troubleshooting and resolving production issues, providing recommendations for preventive measures.<br>- Incorporate suggestions for improvements and enhancements where applicable.<br>- Assist or lead the development and maintenance of technical documentation, storing it in accessible locations (e.g., Confluence, SharePoint).<br>- Perform other reasonable related business duties as assigned by management or supervisors.",
+    "techStacks": [
+      "Developer",
+      "React",
+      "Spring",
+      "Atlassian Confluence",
+      "Linux",
+      "GitLab",
+      "PCF",
+      "RESTful API",
+      "Spring Boot",
+      "Jira",
+      "Java",
+      "J2EE",
+      "Oracle"
+    ]
   },
   {
     "title": "Back End Developer",
     "company": "Uride",
     "detail_link": "https://aniday.com/en/job/back-end-developer-10997",
-    "bgImageData": "image-set(url('https://static.aniday.com/uploads/images/size30/2d291855e44f4045ba636503f275bd2b_20241009171125.webp') 1x, url('https://static.aniday.com/uploads/images/size50/2d291855e44f4045ba636503f275bd2b_20241009171125.webp') 2x, url('https://static.aniday.com/uploads/images/size70/2d291855e44f4045ba636503f275bd2b_20241009171125.webp') 3x)"
+    "image": "https://static.aniday.com/uploads/images/size70/2d291855e44f4045ba636503f275bd2b_20241009171125.webp",
+    "description": "Company: Uride<br>Website: https://www.uride.co<br>Headquarters: Canada<br><br>At Uride, we’re on a mission to empower underserved communities globally by building a marketplace that connects people in rural areas to essential services, starting with ridesharing. <br>Currently operating in 20 cities across Canada, Uride is the nation’s fastest-growing rideshare company, providing over a million rides annually. As we prepare for international expansion, our vision goes beyond ridesharing—we aim to be the top platform for local entrepreneurs to launch service-based businesses, creating a mutually beneficial ecosystem.<br>Our team is diverse, collaborative, and innovation-driven. We believe in solving challenges together with positivity and integrity, fostering an environment where everyone feels free to be themselves. With a startup mindset, we highly value proactivity and a solutions-oriented approach.<br> If you’re passionate about creating impact, driving change, and seeking continuous growth, you’ll thrive at Uride.<br><br>Position Overview<br>Position: Backend Developer (Node.js)<br>Working Location: Full-time hybrid. The role requires working within the Toronto, Canada time zone and attending the office in Ho Chi Minh City twice a week. <br>Salary range: 2000 - 3000 USD (negotiable, full-time service contract).<br>Requirements: Fluent in English, 2+ YoE in backend or full-stack (Golang, Node.js)<br>Interview process: Screening call with Recruiter &gt; Online initial talk with Uride technology team &gt; Offline interview in HCM with VP of Technology.<br>As the Backend Developer, you’ll play a pivotal role in shaping our platform’s architecture, ensuring smooth server-side development, and managing databases. <br><br>What You’ll Do<br>Collaborate with front-end developers and stakeholders to gather project requirements.<br>Design and develop server-side applications and APIs.<br>Optimize application logic and database queries for performance and scalability.<br>Troubleshoot and resolve backend issues, conducting regular maintenance and updates.<br>Develop and maintain backend components of web applications.<br>Ensure high performance, quality, and responsiveness of applications.<br>Identify and correct bottlenecks, bugs, and system inefficiencies.<br>Maintain code quality and participate in code reviews.<br>Stay current with the latest technology trends and bring innovative solutions to the team.",
+    "techStacks": [
+      "English",
+      "APIs",
+      "Functional Programming",
+      "Database",
+      "Golang",
+      "Node.js",
+      "Elastic Search"
+    ]
   },
   {
     "title": "Senior Full-Stack Developer (Remote full time) Open for Indo, Malaysia, and Philippines",
     "company": "TD Consulting",
     "detail_link": "https://aniday.com/en/job/senior-full-stack-developer-remote-full-time-open-for-indo-malaysia-and-philippines-10944",
-    "bgImageData": "image-set(url('https://static.aniday.com/uploads/images/size30/2083cec006f44b629e9924d94fa7d9e6_20241008100024.webp') 1x, url('https://static.aniday.com/uploads/images/size50/2083cec006f44b629e9924d94fa7d9e6_20241008100024.webp') 2x, url('https://static.aniday.com/uploads/images/size70/2083cec006f44b629e9924d94fa7d9e6_20241008100024.webp') 3x)"
+    "image": "https://static.aniday.com/uploads/images/size70/2083cec006f44b629e9924d94fa7d9e6_20241008100024.webp",
+    "description": "This is a Senior Engineer position with a mission to lead product development. This position is responsible for the growth of the product and the success of the project based on a high level of expertise.<br><br>A wide range of skills are required at a high level, not only in engineering, but also in project management and communication, which will greatly expand your career possibilities!<br><br>Tech-stacks:<br>Programming Languages Used:<br>Mainly Used: TypeScript<br>Others: Python, Dart<br>Frontend: Next.js<br>Backend: Supabase, AWS, GCP",
+    "techStacks": [
+      "Backend",
+      "Developer",
+      "NextJS",
+      "AWS",
+      "Product Management",
+      "Python",
+      "Dart",
+      "GCP",
+      "Node.js",
+      "TypeScript",
+      "React"
+    ]
   },
   {
     "title": "Senior Data Engineer",
     "company": "what3words",
     "detail_link": "https://aniday.com/en/job/senior-data-engineer-10892",
-    "bgImageData": "image-set(url('https://static.aniday.com/uploads/images/size30/ad32446da84c47068219dac84a119a80_20241003072454.webp') 1x, url('https://static.aniday.com/uploads/images/size50/ad32446da84c47068219dac84a119a80_20241003072454.webp') 2x, url('https://static.aniday.com/uploads/images/size70/ad32446da84c47068219dac84a119a80_20241003072454.webp') 3x)"
+    "image": "https://static.aniday.com/uploads/images/size70/ad32446da84c47068219dac84a119a80_20241003072454.webp",
+    "description": "Based in Vietnam out of our centrally located Ho Chi Minh City office, you'll be joining our Data team within our fast-growing tech team. Reporting to the Head of Data &amp; Analytics, the senior data engineer will own the design, building, and maintenance of key parts of the data architecture and will have the opportunity to lead strategic projects that look to deliver value to the business in the future.<br><br>As a Senior Data Engineer, you will have hands-on experience of the different elements of the data engineering process and you will be great at building the business context needed to inform technical decision making.<br>To be the technical leader / decision maker on data architectural tools and technologies<br><br>Ownership of the Data Warehouse from ingestion of data sources to storage and serving<br>Own the ideation and execution of architectural principles, guidelines and technology standards of ETL and data pipelines<br>Work with analytics to ensure the data modeling is suitable for reporting needs<br>Managing our GCP and Airflow instances<br>Working with Analytics, Back-end, Front-end, DevOps &amp; QA engineers to ensure that the data events are well-designed and correctly integrated to the data pipeline services<br>Conducts/leads and implements proof of concepts to demonstrate new technologies in support of architecture vision and guiding principles<br>Collaborate with Data Engineers and Analysts to develop views, sources and aggregations of data<br>Review SQL and Python code from across the Data team to help maintain data and code integrity",
+    "techStacks": [
+      "Enginering",
+      "Backend",
+      "Airflow",
+      "SQL",
+      "Python",
+      "Data Modeling",
+      "ETL",
+      "Data Architecture",
+      "Database"
+    ]
   },
   {
     "title": "Product Intern/ Frehser",
     "company": "Kegmil",
     "detail_link": "https://aniday.com/en/job/product-intern-frehser-10869",
-    "bgImageData": "image-set(url('https://static.aniday.com/uploads/images/size30/9fbe2be29a4f4e7097cb2d02b2eef64e_20240819015818.webp') 1x, url('https://static.aniday.com/uploads/images/size50/9fbe2be29a4f4e7097cb2d02b2eef64e_20240819015818.webp') 2x, url('https://static.aniday.com/uploads/images/size70/9fbe2be29a4f4e7097cb2d02b2eef64e_20240819015818.webp') 3x)"
+    "image": "https://static.aniday.com/uploads/images/size70/9fbe2be29a4f4e7097cb2d02b2eef64e_20240819015818.webp",
+    "description": "About Kegmil<br>Kegmil is a holistic solution provider of mission-critical Enterprise Systems, with a spike in Field Service Management software-as-a-service. We are a global team serving international clients, and strongly backed by Mitsubishi Electric (a world-leading manufacturer of products ranging from home electronics to satellite systems, headquartered in Japan)<br>Our cloud-based, AI-enabled Field Service Management solution is #1 amongst B2B clients in Southeast Asia and is adopted across various industries such as Elevator &amp; Escalator, Data Center, Medical Equipment, Defence &amp; Aerospace, Marine Offshore, etc.<br>Our offerings expand to Enterprise Resource Planning (ERP) systems integration and deployment - including Inventory Management Systems (IMS), HR Information Systems (HRIS), Customer Relationship Management (CRM), Procurement Systems and others<br>We are looking for a dynamic, energetic intern who is eager to learn about our company by assisting various departments. You will be working closely with our team to conduct research, capture data, write documents and attend meetings where you will be asked to take minutes.<br><br>To be successful as an Intern, you should be willing to help with any tasks assigned by a supervisor. You will be involved in upcoming projects as well as assisting with current ones.",
+    "techStacks": [
+      "Market Research",
+      "Software Development",
+      "Data Analysis",
+      "Computer Science"
+    ]
   },
   {
     "title": "IIoT Solution Engineer",
     "company": "Yokogawa Vietnam",
     "detail_link": "https://aniday.com/en/job/iiot-solution-engineer-10798",
-    "bgImageData": "image-set(url('https://static.aniday.com/uploads/images/size30/f5efc51ddbd442d5a9b4fa47fc255741_20240909095538.webp') 1x, url('https://static.aniday.com/uploads/images/size50/f5efc51ddbd442d5a9b4fa47fc255741_20240909095538.webp') 2x, url('https://static.aniday.com/uploads/images/size70/f5efc51ddbd442d5a9b4fa47fc255741_20240909095538.webp') 3x)"
+    "image": "https://static.aniday.com/uploads/images/size70/f5efc51ddbd442d5a9b4fa47fc255741_20240909095538.webp",
+    "description": "IIoT Solution Engineer is responsible on planning, organize, identify technical risk, pre-sales support to regional sales and project engineering such as solutioning site integration, connectivity on premises data and gateway to the cloud. They are required to have hands-on experience with the OT and IT Data integration<br><br>Responsibilities:<br>   •   Develop IIoT solution material and propose integration recommendation<br>   •   Develop solution for OT/IT data integration. Integration between Edge Gateway and on premises server or Cloud (bi-directional).<br>   •   Conduct evaluation/site survey and testing with users for the data integration and demonstration. This will include site study, front end engineering design, implementation and maintenance/services with the remote support from Product Team<br>   •   Support on technical/solution pre-sales, design innovation and realization plan include coordination with customer<br>   •   Prepare technical presentation for the recommended solution to customer and Yokogawa Business Development Manager",
+    "techStacks": [
+      "Communications",
+      "OEM Sales",
+      "IoT"
+    ]
   },
   {
     "title": "QC Lead (IoT Platform)",
     "company": "Yokogawa Vietnam",
     "detail_link": "https://aniday.com/en/job/qc-lead-iot-platform-10771",
-    "bgImageData": "image-set(url('https://static.aniday.com/uploads/images/size30/f5efc51ddbd442d5a9b4fa47fc255741_20240909095538.webp') 1x, url('https://static.aniday.com/uploads/images/size50/f5efc51ddbd442d5a9b4fa47fc255741_20240909095538.webp') 2x, url('https://static.aniday.com/uploads/images/size70/f5efc51ddbd442d5a9b4fa47fc255741_20240909095538.webp') 3x)"
+    "image": "https://static.aniday.com/uploads/images/size70/f5efc51ddbd442d5a9b4fa47fc255741_20240909095538.webp",
+    "description": "About the role:<br>The QC Lead/QC Manager for our IoT platform will play a pivotal role in ensuring the highest quality standards across all our products and services. As a key leader in the Quality Control team, this person will define, implement, and maintain quality assurance processes in alignment with PMs and POs. The primary objectives for this role include ensuring the consistent quality of IoT products, defining and standardizing quality processes, and managing the QC team.<br><br>Key Responsibilities:<br>Product Quality<br>   • Oversee end-to-end quality testing across company’s projects with focus on IoT platform.<br>   • Study the end to end system and create a comprehensive test scenario from business perspective to prevent reopen bugs on system features<br>   • Conduct root cause analysis for quality issues, implementing corrective actions to prevent recurrence.<br>   • Collaborate with product teams to identify and mitigate quality risks throughout the development lifecycle.<br>Quality Assurance Processes &amp; Performance Monitoring<br>   • Define, implement, and monitor quality control processes for IoT platform development and operations.<br>   • Ensure compliance with industry standards and best practices, aligning quality strategies with business objectives.<br>   • Document and standardize quality control procedures to support onboarding and on-the-job training for new team members.<br>   • Collaborate with external and internal stakeholders to implement automation testing framework.<br>   • Establish metrics and KPIs to measure product quality, efficiency, and continuous improvement.<br>   • Report quality issues and trends to senior management.<br>Team Management<br>   • Lead, mentor, and manage a team of QC engineers.<br>   • Assign tasks, monitor progress, and ensure the team meets quality objectives.<br>   • Ensure team alignment with quality objectives, providing ongoing training and performance evaluations.<br>   • Collaborate cross-functionally with development, operations, and product teams to ensure a holistic approach to quality control.",
+    "techStacks": [
+      "Manual testing",
+      "Test Plan Writing",
+      "IoT",
+      "Automation Tools"
+    ]
   },
   {
     "title": "Senior Software Engineer",
     "company": "ELSA SPEAK",
     "detail_link": "https://aniday.com/en/job/senior-software-engineer-10757",
-    "bgImageData": "image-set(url('https://static.aniday.com/uploads/images/size30/60b015055bd445a899b27490d102f2a1_20190220140506.webp') 1x, url('https://static.aniday.com/uploads/images/size50/60b015055bd445a899b27490d102f2a1_20190220140506.webp') 2x, url('https://static.aniday.com/uploads/images/size70/60b015055bd445a899b27490d102f2a1_20190220140506.webp') 3x)"
+    "image": "https://static.aniday.com/uploads/images/size70/60b015055bd445a899b27490d102f2a1_20190220140506.webp",
+    "description": "As a Senior Software Engineer, you will play a key role in developing and deploying software that solves critical business needs. You will not only be a skilled developer but also a leader and mentor, guiding your team to deliver high-quality, reliable, and maintainable software. You will have the opportunity to shape the development pipeline, influence technical decisions, and collaborate with stakeholders across the organization.<br><br>Key Responsibilities:<br>Technical Leadership:<br>  - Demonstrate thought leadership by contributing to technical design decisions that span vertically through the team’s ownership.<br>  - Overcome obstacles and setbacks, adapting to ambiguity, and communicating changes to plans effectively and in a timely manner.<br><br>Infrastructure and Operations:<br>  - Keep the CICD pipelines in good health, adjusting them as needed.<br>  - Actively set availability and failure rate goals for services your team owns, and pursue them.<br>  - Identify and influence the resolution of infrastructure issues to maintain a reliable and efficient software environment.<br><br>Team Collaboration and Growth:<br>  - Force multiply for your team by finding ways to enable them to do more each day.<br>  - Foster an environment of knowledge sharing and collaboration within the team.<br>  - Focus on enabling colleagues to solve problems independently rather than providing instant solutions.<br><br>Code and Quality:<br>  - Maintain exemplary code quality.<br>  - Advocate for automating repetitive tasks to reduce errors, save time, and improve efficiency.<br>  - Demonstrate a deep understanding of design patterns and architectural principles.<br><br>Continuous Improvement:<br>  - Stay up-to-date on industry trends and technologies relevant to the team’s work.<br>  - Embrace experimentation and data-driven decision making for continuous improvement.<br><br>Customer Focus:<br>  - Empathize with customer needs and translate them into technical solutions.<br>  - Gather and analyze customer feedback to inform product development and improvement.",
+    "techStacks": [
+      "Enginering"
+    ]
   },
   {
     "title": "Automation engineer",
     "company": "Aniday",
     "detail_link": "https://aniday.com/en/job/automation-engineer-10711",
-    "bgImageData": "image-set(url('https://static.aniday.com/uploads/images/size30/187358e1468a4a92af8a6b438fc598eb_20240307084806.webp') 1x, url('https://static.aniday.com/uploads/images/size50/187358e1468a4a92af8a6b438fc598eb_20240307084806.webp') 2x, url('https://static.aniday.com/uploads/images/size70/187358e1468a4a92af8a6b438fc598eb_20240307084806.webp') 3x)"
+    "image": "https://static.aniday.com/uploads/images/size70/187358e1468a4a92af8a6b438fc598eb_20240307084806.webp",
+    "description": "The Workflow Automation engineer will be responsible for integrating multiple platforms such as Discord, Telegram, Google Sheets, Google Docs, and email alerts. This role will focus on streamlining and automating our internal workflow as well as optimizing processes involving our users and customers. The ideal candidate will have a strong technical background and excellent problem-solving skills.<br><br>Key Responsibilities:<br>- Platform Integration: Seamlessly integrate multiple platforms (e.g., Discord, Telegram, Google Sheets, Google Docs) to ensure smooth data flow and communication.<br>- Automation Development: Design, implement, and maintain automated workflows to enhance operational efficiency.<br>- User and Customer Processes: Develop automation solutions to improve interactions and communication with users and customers, ensuring a smooth and seamless experience.<br>- Monitoring and Maintenance: Regularly monitor automation systems and workflows, making adjustments and improvements as needed.<br>- Collaborate with Teams: Work closely with various teams including customer support, IT, and product development to understand requirements and deliver high-quality automation solutions.<br>- Documentation and Training: Create detailed documentation for automated processes and provide training to team members as needed.",
+    "techStacks": [
+      "JavaScript",
+      "Python"
+    ]
   },
   {
     "title": "QA Automation Lead",
     "company": "Sales Marker",
     "detail_link": "https://aniday.com/en/job/qa-automation-lead-10507",
-    "bgImageData": "image-set(url('https://static.aniday.com/uploads/images/size30/b994f3b4d87140f391395df225bf12fa_20240708025030.webp') 1x, url('https://static.aniday.com/uploads/images/size50/b994f3b4d87140f391395df225bf12fa_20240708025030.webp') 2x, url('https://static.aniday.com/uploads/images/size70/b994f3b4d87140f391395df225bf12fa_20240708025030.webp') 3x)"
+    "image": "https://static.aniday.com/uploads/images/size70/b994f3b4d87140f391395df225bf12fa_20240708025030.webp",
+    "description": "弊社プロダクトのQA活動全般を担っていただきます。使用通りの挙動確認のみならず、仕様レビューや仕様改善、UI/UX検証、開発プロセスの改善など、プロダクト品質に関わること全てに関わっていただきます。<br><br>You will be responsible for the overall QA activities of our products. You will be involved in all aspects of product quality, including specification reviews, specification improvements, UI/UX verification and development process improvements, as well as checking the behavior of the product as used.<br><br>- 開発プロセス上流での仕様レビュー及び仕様改善<br>- テスト計画・設計・実施・管理及びバグ報告 - エンジニアとの交渉及び調整業務<br>- Web・バックエンドに対するテスト効率化及び自動化の推進<br>- あらゆるテスト（API・E2E・UI・レグレッション）の設計と実装、運用保守<br>- アジャイルを前提に、開発プロセス全体に関連する改善業務<br><br>- Specification review and specification improvement in the upstream of the development process<br>- Test planning, design, implementation, management and bug reporting<br>- Negotiation and coordination with engineers<br>- Promoting test efficiency and automation for web and back-end testing<br>- Design and implementation of all tests (API, E2E, UI, regression), operation and maintenance<br>- Improvement work related to the entire development process, based on the premise of Agile.<br><br>また、リードQAエンジニアとして、以下の業務を実行していただきます。<br>- QAチームのメンタリングおよび育成（定期的なメンバーとの1 on 1を含む）<br>- チームメンバーへの技術的な支援とレビューの提供<br>- 開発チーム、PdM、他部門との率先的な連携<br><br>As a Lead QA Engineer, you will be responsible for performing the following tasks:<br>- Mentoring and developing the QA team (including regular 1 on 1s with members)<br>- Providing technical support and reviews to team members<br>- Proactively liaising with the development team, PdM, and other departments",
+    "techStacks": [
+      "QA/QC",
+      "UI / UX"
+    ]
   },
   {
     "title": "QA Automation Engineer",
     "company": "Sales Marker",
     "detail_link": "https://aniday.com/en/job/qa-automation-engineer-10506",
-    "bgImageData": "image-set(url('https://static.aniday.com/uploads/images/size30/b994f3b4d87140f391395df225bf12fa_20240708025030.webp') 1x, url('https://static.aniday.com/uploads/images/size50/b994f3b4d87140f391395df225bf12fa_20240708025030.webp') 2x, url('https://static.aniday.com/uploads/images/size70/b994f3b4d87140f391395df225bf12fa_20240708025030.webp') 3x)"
+    "image": "https://static.aniday.com/uploads/images/size70/b994f3b4d87140f391395df225bf12fa_20240708025030.webp",
+    "description": "弊社プロダクトのQA活動全般を担っていただきます。使用通りの挙動確認のみならず、仕様レビューや仕様改善、UI/UX検証、開発プロセスの改善など、プロダクト品質に関わること全てに関わっていただきます。<br><br>You will be responsible for the overall QA activities of our products. You will be involved in all aspects of product quality, including specification reviews, specification improvements, UI/UX verification and development process improvements, as well as checking the behavior of the product as used.<br><br>- 開発プロセス上流での仕様レビュー及び仕様改善<br>- テスト計画・設計・実施・管理及びバグ報告 - エンジニアとの交渉及び調整業務<br>- Web・バックエンドに対するテスト効率化及び自動化の推進<br>- あらゆるテスト（API・E2E・UI・レグレッション）の設計と実装、運用保守<br>- アジャイルを前提に、開発プロセス全体に関連する改善業務<br><br>- Specification review and specification improvement in the upstream of the development process<br>- Test planning, design, implementation, management and bug reporting<br>- Negotiation and coordination with engineers<br>- Promoting test efficiency and automation for web and back-end testing<br>- Design and implementation of all tests (API, E2E, UI, regression), operation and maintenance<br>- Improvement work related to the entire development process, based on the premise of Agile.",
+    "techStacks": [
+      "QA/QC",
+      "QA",
+      "Automation Tools"
+    ]
   }
 ]

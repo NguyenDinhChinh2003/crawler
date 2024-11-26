@@ -1,41 +1,95 @@
 import puppeteer from "puppeteer";
-import fs from "fs";
+import fs from "fs/promises"; // Use promises for better async handling
 
-async function scrapeJobListings()
-{
+async function scrapeJobListings() {
     const browser = await puppeteer.launch({ headless: true });
-    const page = await browser.newPage();
-    await page.goto("https://aniday.com/en/job?jobtype=1&category=1&location=1019", { waitUntil: "domcontentloaded" });
-    const result = await page.evaluate(()=>{
-        const jobListings = [];
-        const jobItems = document.querySelectorAll('.job-item-card'); 
-        jobItems.forEach(item => {
-            const title = item.querySelector('.job-item-card__title-name')?.innerText.trim();
-            const company = item.querySelector('.job-item-card__company-name')?.innerText.trim();
-            const detail_link = item.querySelector('.job-item-card__detail')?.getAttribute('href');
-            const imageElement = item.querySelector(".job-item-card__company-logo.bg-image-element");
-            const bgImageData = imageElement?.getAttribute('data-bgimage');
-            // const match = bgImageData.match(/url\('([^']+)_3x/);
-            // const imageUrl3x = match ? match[1] + " 3x" : null;
-            if (title) {
-                jobListings.push({
-                    title,
-                    company,
-                    detail_link,
-                    bgImageData,
-                });
-            }
+
+    try {
+        const page = await browser.newPage();
+        await page.goto("https://aniday.com/en/job?jobtype=1&category=1&location=1019", { waitUntil: "domcontentloaded" });
+
+        // Scrape job listings
+        const jobListings = await page.evaluate(() => {
+            const jobs = [];
+            const jobItems = document.querySelectorAll('.job-item-card');
+
+            jobItems.forEach(item => {
+                const title = item.querySelector('.job-item-card__title-name')?.innerText.trim();
+                const company = item.querySelector('.job-item-card__company-name')?.innerText.trim();
+                const detail_link = item.querySelector('.job-item-card__detail')?.getAttribute('href');
+                const imageElement = item.querySelector(".job-item-card__company-logo.bg-image-element");
+                const bgImageData = imageElement?.getAttribute('data-bgimage');
+                const match = bgImageData?.match(/url\('(https:\/\/[^']*size70[^']*)'\)/);
+                const image = match?.[1];
+
+                if (title) {
+                    jobs.push({ title, company, detail_link, image });
+                }
+            });
+
+            return jobs;
         });
-        return jobListings;
-    });
-    fs.writeFileSync('data/aniday.json', JSON.stringify(result, null, 2), 'utf-8');
-    console.log('Data saved to jobListings.json');
-    console.log(result);
-    await browser.close();
+
+        // Add descriptions to each job listing
+        const jobDetails = [];
+        for (const job of jobListings) {
+            try {
+                const description = await getDescription(job.detail_link, browser);
+                const techStacks = await getTechStack(job.detail_link, browser);
+                jobDetails.push({ ...job, description, techStacks });
+            } catch (error) {
+                console.error(`Failed to get description for ${job.detail_link}:`, error);
+                jobDetails.push({ ...job, description: "Description not available" });
+            }
+        }
+
+        // Save the data to a JSON file
+        await fs.writeFile('data/aniday.json', JSON.stringify(jobDetails, null, 2), 'utf-8');
+        console.log('Data saved to data/aniday.json');
+    } catch (error) {
+        console.error("An error occurred during scraping:", error);
+    } finally {
+        await browser.close();
+    }
 }
+
+async function getDescription(detailLink, browser) {
+    if (!detailLink) return "No detail link provided";
+    const page = await browser.newPage();
+    try {
+        await page.goto(detailLink, { waitUntil: "domcontentloaded" });
+        const description = await page.evaluate(() => {
+            const rawDescription = document.querySelector(".mct-posses")?.innerHTML.trim() || "Description not found";
+            // Thay thế xuống dòng bằng thẻ <br>
+            return rawDescription.replace(/\n/g, "<br>");
+        });
+        return description;
+    } catch (error) {
+        console.error(`Error fetching description from ${detailLink}:`, error);
+        return "Error fetching description";
+    } finally {
+        await page.close();
+    }
+}
+async function getTechStack(detailLink, browser) {
+    if (!detailLink) return "No detail link provided";
+    const page = await browser.newPage();
+    try {
+        await page.goto(detailLink, { waitUntil: "domcontentloaded" });
+        const techStacks = await page.evaluate(() => {
+            const container = document.querySelector('.ss-job-header-title');
+            if (!container) return [];
+            return Array.from(container.querySelectorAll('span.tag'))
+                .map(stack => stack.innerText.trim());
+        });
+        return techStacks;
+    } catch (error) {
+        console.error(`Error fetching tech stacks from ${detailLink}:`, error);
+        return "Error fetching tech stacks";
+    } finally {
+        await page.close();
+    }
+}
+
+// Start scraping
 scrapeJobListings();
-
-
-async function getDescription(detail_link){
-
-}
