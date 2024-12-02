@@ -1,110 +1,114 @@
 [
   {
-    "title": "Chuyên Viên Quản Trị Mạng",
+    "title": "Quality Assurance",
     "descriptions": [],
-    "dateCreated": "2024-11-27",
+    "dateCreated": "2024-12-02",
     "techStacks": [
-      ".NET",
-      "Cisco",
-      "IPS/IDS"
+      "QA",
+      "Tester",
+      "Web Tester"
     ],
-    "company": "SmartSign"
+    "company": "DTN E-COMMERCE SOFTWARE COMPANY LIMITED"
   },
   {
-    "title": "System Engineer",
+    "title": "[DI6] Mobile Developer (iOS/Android) – 4C001",
     "descriptions": [],
-    "dateCreated": "2024-11-27",
-    "techStacks": [
-      "DevOps",
-      "System Engineer",
-      "Infrastructure"
-    ],
-    "company": "CÔNG TY TNHH SAMSUNG SDS VIỆT NAM"
-  },
-  {
-    "title": "Mid MTS (Mobile Trading System) Developer - Android/iOS",
-    "descriptions": [
-      "Competitive salary, salary review once a year",
-      "13th month salary and Annual Performance Bonus",
-      "MVP and Shining star awards at the end of year"
-    ],
-    "dateCreated": "2024-11-27",
+    "dateCreated": "2024-12-02",
     "techStacks": [
       "Android",
-      "iOS",
-      "JavaScript",
-      "Mobile"
+      "iOS"
     ],
-    "company": "DaouKiwoom Innovation"
+    "company": "Ngân hàng TMCP Hàng Hải Việt Nam (MSB)"
   },
   {
-    "title": "Frontend Tech Lead",
+    "title": "[DI6] Senior Tester (Automation/Manual) – MSB - 1Y561",
     "descriptions": [],
-    "dateCreated": "2024-11-27",
-    "techStacks": [
-      "Front-End",
-      "ReactJS",
-      "NextJS"
-    ],
-    "company": "SAPP Academy"
-  },
-  {
-    "title": "Backend Developer",
-    "descriptions": [],
-    "dateCreated": "2024-11-27",
-    "techStacks": [
-      "NodeJS",
-      "ExpressJS",
-      "NestJS"
-    ],
-    "company": "SAPP Academy"
-  },
-  {
-    "title": "Business Analyst",
-    "descriptions": [],
-    "dateCreated": "2024-11-27",
-    "techStacks": [
-      "Business Analyst",
-      "CRM"
-    ],
-    "company": "SAPP Academy"
-  },
-  {
-    "title": "SENIOR BACKEND DEVELOPER (JAVA, SPRING, KAFKA)",
-    "descriptions": [],
-    "dateCreated": "2024-11-27",
-    "techStacks": [
-      "Java",
-      "Hibernate",
-      "Spring Boot"
-    ],
-    "company": "VIETCAP SECURITIES"
-  },
-  {
-    "title": "Automation QC (Appium, Python) - Mid/Senior",
-    "descriptions": [],
-    "dateCreated": "2024-11-27",
+    "dateCreated": "2024-12-02",
     "techStacks": [
       "Tester",
+      "Database",
       "Automation Tester",
-      "Appium"
+      "Manual Test",
+      "Mobile Tester"
     ],
-    "company": "Floware"
+    "company": "Ngân hàng TMCP Hàng Hải Việt Nam (MSB)"
   },
   {
-    "title": "SEO Expert Consultant (Part-time)",
-    "descriptions": [
-      "Truly startup spirit. No bureaucracy, no hierarchy. Everyone is a leader here, you have the freedom to pursue and achieve your goals. Huge responsibilities from Day 1. Be the owner of your own learning curve. The possibilities are limitless and depend on you.",
-      "Working hour: 9:00 - 18:00, 5 work days per week, 12 annual leave days.",
-      "Competitive salary, 13-month salary."
-    ],
-    "dateCreated": "2024-11-27",
+    "title": "Senior Bridge Software Engineer",
+    "descriptions": [],
+    "dateCreated": "2024-12-02",
     "techStacks": [
-      "SEO",
-      "React",
-      "NextJS"
+      "Git",
+      "Bridge SE",
+      "Japanese ( N1 Or N2)"
     ],
-    "company": "Space T"
+    "company": "CÔNG TY TNHH PERSOL CROSS TECHNOLOGY VIỆT NAM"
+  },
+  {
+    "title": "Odoo Developer",
+    "descriptions": [],
+    "dateCreated": "2024-12-02",
+    "techStacks": [
+      "Python",
+      "ERP",
+      "Odoo"
+    ],
+    "company": "ILA Vietnam"
+  },
+  {
+    "title": "Senior Data Architect",
+    "descriptions": [
+      "A diverse and open working culture, where your true identity is celebrated.",
+      "Multiple career opportunities to rotate within Functions or cross-functions.",
+      "Your wellbeing will be taken care by our Health & Safety Team since Day 1."
+    ],
+    "dateCreated": "2024-12-02",
+    "techStacks": [
+      "SQL",
+      "Python",
+      "Azure",
+      "Data Architecture"
+    ],
+    "company": "HEINEKEN Vietnam"
+  },
+  {
+    "title": "Global Service Desk",
+    "descriptions": [],
+    "dateCreated": "2024-12-02",
+    "techStacks": [
+      "IT Administrator",
+      "Azure",
+      "Microsoft 365"
+    ],
+    "company": "SPS Vietnam Company Limited"
+  },
+  {
+    "title": "Drupal Developer",
+    "descriptions": [],
+    "dateCreated": "2024-12-02",
+    "techStacks": [
+      "PHP",
+      "Drupal",
+      "GitFlow"
+    ],
+    "company": "InterGreat Education Group"
+  },
+  {
+    "title": "Senior Java Developer (MySQL/ Spring)",
+    "descriptions": [
+      "Full SHUI as Vietnamese Law",
+      "Competitive salary, salary review once a year",
+      "13th month salary and Annual Performance Bonus"
+    ],
+    "dateCreated": "2024-12-02",
+    "techStacks": [
+      "Java",
+      "MySQL",
+      "Git",
+      "Spring",
+      "API"
+    ],
+    "company": "DaouKiwoom Innovation"
   },
   {
     "title": "Supply Chain Digital BA (Management Level)",
@@ -113,7 +117,7 @@
       "Multiple career opportunities to rotate within Functions or cross-functions.",
       "Your wellbeing will be taken care by our Health & Safety Team since Day 1."
     ],
-    "dateCreated": "2024-11-27",
+    "dateCreated": "2024-12-02",
     "techStacks": [
       "SQL",
       "Agile & Scrum",
