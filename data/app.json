@@ -1,128 +1,126 @@
 [
   {
-    "title": "Quality Assurance",
+    "title": "Back End NodeJS/NestJS Developer",
     "descriptions": [],
-    "dateCreated": "2024-12-02",
+    "dateCreated": "2024-12-04",
+    "techStacks": [
+      "NodeJS",
+      "TypeScript",
+      "NestJS"
+    ],
+    "company": "MenuWise"
+  },
+  {
+    "title": "Fullstack Developer (NodeJS/ReactJS/Python)",
+    "descriptions": [],
+    "dateCreated": "2024-12-04",
+    "techStacks": [
+      "JavaScript",
+      "Python",
+      "NodeJS"
+    ],
+    "company": "AZPLAYS Co., LTD"
+  },
+  {
+    "title": "05 QA/Tester",
+    "descriptions": [],
+    "dateCreated": "2024-12-04",
     "techStacks": [
       "QA",
       "Tester",
-      "Web Tester"
+      "Manual Test"
     ],
-    "company": "DTN E-COMMERCE SOFTWARE COMPANY LIMITED"
+    "company": "CQ TDT ASIA JSC"
   },
   {
-    "title": "[DI6] Mobile Developer (iOS/Android) – 4C001",
+    "title": "05 Android Developer - Lương up to 2000$",
     "descriptions": [],
-    "dateCreated": "2024-12-02",
+    "dateCreated": "2024-12-04",
     "techStacks": [
       "Android",
-      "iOS"
-    ],
-    "company": "Ngân hàng TMCP Hàng Hải Việt Nam (MSB)"
-  },
-  {
-    "title": "[DI6] Senior Tester (Automation/Manual) – MSB - 1Y561",
-    "descriptions": [],
-    "dateCreated": "2024-12-02",
-    "techStacks": [
-      "Tester",
-      "Database",
-      "Automation Tester",
-      "Manual Test",
-      "Mobile Tester"
-    ],
-    "company": "Ngân hàng TMCP Hàng Hải Việt Nam (MSB)"
-  },
-  {
-    "title": "Senior Bridge Software Engineer",
-    "descriptions": [],
-    "dateCreated": "2024-12-02",
-    "techStacks": [
-      "Git",
-      "Bridge SE",
-      "Japanese ( N1 Or N2)"
-    ],
-    "company": "CÔNG TY TNHH PERSOL CROSS TECHNOLOGY VIỆT NAM"
-  },
-  {
-    "title": "Odoo Developer",
-    "descriptions": [],
-    "dateCreated": "2024-12-02",
-    "techStacks": [
-      "Python",
-      "ERP",
-      "Odoo"
-    ],
-    "company": "ILA Vietnam"
-  },
-  {
-    "title": "Senior Data Architect",
-    "descriptions": [
-      "A diverse and open working culture, where your true identity is celebrated.",
-      "Multiple career opportunities to rotate within Functions or cross-functions.",
-      "Your wellbeing will be taken care by our Health & Safety Team since Day 1."
-    ],
-    "dateCreated": "2024-12-02",
-    "techStacks": [
-      "SQL",
-      "Python",
-      "Azure",
-      "Data Architecture"
-    ],
-    "company": "HEINEKEN Vietnam"
-  },
-  {
-    "title": "Global Service Desk",
-    "descriptions": [],
-    "dateCreated": "2024-12-02",
-    "techStacks": [
-      "IT Administrator",
-      "Azure",
-      "Microsoft 365"
-    ],
-    "company": "SPS Vietnam Company Limited"
-  },
-  {
-    "title": "Drupal Developer",
-    "descriptions": [],
-    "dateCreated": "2024-12-02",
-    "techStacks": [
-      "PHP",
-      "Drupal",
-      "GitFlow"
-    ],
-    "company": "InterGreat Education Group"
-  },
-  {
-    "title": "Senior Java Developer (MySQL/ Spring)",
-    "descriptions": [
-      "Full SHUI as Vietnamese Law",
-      "Competitive salary, salary review once a year",
-      "13th month salary and Annual Performance Bonus"
-    ],
-    "dateCreated": "2024-12-02",
-    "techStacks": [
       "Java",
-      "MySQL",
-      "Git",
-      "Spring",
-      "API"
+      "Kotlin"
     ],
-    "company": "DaouKiwoom Innovation"
+    "company": "CQ TDT ASIA JSC"
   },
   {
-    "title": "Supply Chain Digital BA (Management Level)",
-    "descriptions": [
-      "A diverse and open working culture, where your true identity is celebrated.",
-      "Multiple career opportunities to rotate within Functions or cross-functions.",
-      "Your wellbeing will be taken care by our Health & Safety Team since Day 1."
-    ],
-    "dateCreated": "2024-12-02",
+    "title": "05 IOS Developer - Lương up to 2000$",
+    "descriptions": [],
+    "dateCreated": "2024-12-04",
     "techStacks": [
-      "SQL",
-      "Agile & Scrum",
-      "English - Good"
+      "Swift",
+      "iOS",
+      "SwiftUI"
     ],
-    "company": "HEINEKEN Vietnam"
+    "company": "CQ TDT ASIA JSC"
+  },
+  {
+    "title": "External Project Manager (JLPT N2 Up) – Signing Bonus Up to 30M",
+    "descriptions": [],
+    "dateCreated": "2024-12-04",
+    "techStacks": [
+      "Project Manager",
+      "Japanese - N2"
+    ],
+    "company": "FPT Software"
+  },
+  {
+    "title": "Quality Assurance (QA) - Khối Dữ liệu (HO24.333)",
+    "descriptions": [
+      "Trải nghiệm Thu nhập hấp dẫn với gói đãi ngộ toàn diện:",
+      "Thưởng tháng lương 13; Thưởng thành tích 06 tháng, 1 năm ; Thưởng các dịp lễ tết trong năm ; Thưởng theo danh hiệu cá nhân và tập thể…",
+      "Du lịch nghỉ dưỡng hàng năm, Khám sức khỏe định kì; Gói bảo hiểm sức khỏe cá nhân và người thân (MIC);"
+    ],
+    "dateCreated": "2024-12-04",
+    "techStacks": [
+      "QA",
+      "PQA"
+    ],
+    "company": "MBBANK"
+  },
+  {
+    "title": "Senior Manager, Quality Management (Japanese N2+)",
+    "descriptions": [],
+    "dateCreated": "2024-12-04",
+    "techStacks": [
+      "Manager",
+      "Project Manager",
+      "Japanese - N2",
+      "Japanese - N1",
+      "Process Quality Assurance"
+    ],
+    "company": "NEC Vietnam"
+  },
+  {
+    "title": "[Hà Nội] Kỹ sư Lập trình (Java/Frontend)",
+    "descriptions": [
+      "Thu nhập từ 200 - 500 triệu/năm",
+      "Teambuilding, nghỉ mát hàng năm....",
+      "Phụ cấp điện thoại, Bảo hiểm XH, BHYT...."
+    ],
+    "dateCreated": "2024-12-04",
+    "techStacks": [
+      "Oracle",
+      "Java",
+      "Spring",
+      "Angular",
+      "TypeScript"
+    ],
+    "company": "Công ty Công nghệ thông tin VNPT (VNPT-IT)"
+  },
+  {
+    "title": "Trưởng Bộ phận Quản lý An ninh thông tin",
+    "descriptions": [
+      "Mức lương và các chế độ phúc lợi đãi ngộ xứng đáng.",
+      "Bảo hiểm xã hội, bảo hiểm y tế và chế độ nghỉ mát.",
+      "Tổ chức thăm khám, kiểm tra sức khỏe định kỳ miễn phí cho nhân viên hằng năm."
+    ],
+    "dateCreated": "2024-12-04",
+    "techStacks": [
+      "IT Security",
+      "System Security",
+      "Application Security"
+    ],
+    "company": "Ngân Hàng TMCP Đông Á (DongA Bank)"
   }
 ]
