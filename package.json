@@ -9,6 +9,7 @@
     "start_index": "node index.js",
     "start_remote": "node remote.js",
     "start_aniday": "node aniday.js",
+    "start_speak": "node speak.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
