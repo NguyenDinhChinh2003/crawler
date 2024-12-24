@@ -1,113 +1,123 @@
 [
   {
-    "title": "Trưởng phòng lập trình App",
+    "title": "NHÂN VIÊN TESTER (Fresher)",
     "descriptions": [],
-    "dateCreated": "2024-12-16",
-    "techStacks": [
-      "Java",
-      "Flutter",
-      "Dart"
-    ],
-    "company": "Công ty Cổ phần Ứng dụng Công nghệ Logistics (LTA)"
-  },
-  {
-    "title": "Java Technical Leader",
-    "descriptions": [],
-    "dateCreated": "2024-12-16",
-    "techStacks": [
-      "Java",
-      "Technical Leader",
-      "Java Spring"
-    ],
-    "company": "CÔNG TY TNHH SAMSUNG SDS VIỆT NAM"
-  },
-  {
-    "title": "Business Analyst Lead",
-    "descriptions": [],
-    "dateCreated": "2024-12-16",
-    "techStacks": [
-      "Business Analyst"
-    ],
-    "company": "CQ TDT ASIA JSC"
-  },
-  {
-    "title": "DevOps Engineer",
-    "descriptions": [],
-    "dateCreated": "2024-12-16",
-    "techStacks": [
-      "Linux",
-      "Java",
-      "DevOps"
-    ],
-    "company": "NEYU Ltd.,"
-  },
-  {
-    "title": "(Senior) Engineer, Java",
-    "descriptions": [],
-    "dateCreated": "2024-12-16",
-    "techStacks": [
-      "Java",
-      "MongoDB",
-      "Redis"
-    ],
-    "company": "TAPTAP"
-  },
-  {
-    "title": "SENIOR TESTER",
-    "descriptions": [],
-    "dateCreated": "2024-12-16",
+    "dateCreated": "2024-12-24",
     "techStacks": [
       "Tester",
-      "English",
-      "API"
+      "Manual Tester"
     ],
-    "company": "ProVision VN"
+    "company": "TopDev's Client"
   },
   {
-    "title": "QC (Automation)",
-    "descriptions": [
-      "Công ty hỗ trợ chi phí Visa.",
-      "Làm việc trong môi trường quốc tế, năng động, chuyên nghiệp, có nhiều cơ hội để phát triển nghề nghiệp.",
-      "Tài trợ chi phí ăn uống và nhà cửa."
-    ],
-    "dateCreated": "2024-12-16",
+    "title": "[Junior/ Middle]Manual Tester",
+    "descriptions": [],
+    "dateCreated": "2024-12-24",
     "techStacks": [
-      "QA",
       "Tester",
-      "Automation Tester",
-      "Automation Developer",
-      "Automation QC"
+      "Manual Tester"
     ],
-    "company": "GEM MULTIMEDIA SDN. BHD"
+    "company": "TopDev's Client"
   },
   {
-    "title": "Automation Test Engineer",
+    "title": "[Junior/Middle] FRONTEND ENGINEER",
     "descriptions": [],
-    "dateCreated": "2024-12-16",
+    "dateCreated": "2024-12-24",
     "techStacks": [
-      "Automation Tester"
-    ],
-    "company": "LG CNS Việt Nam"
-  },
-  {
-    "title": "Governance-Risk-Compliance Consultant - CS01",
-    "descriptions": [],
-    "dateCreated": "2024-12-16",
-    "techStacks": [
-      "IT Consultant",
-      "Security Engineer"
-    ],
-    "company": "FPT IS"
-  },
-  {
-    "title": "Software Engineers (Golang)",
-    "descriptions": [],
-    "dateCreated": "2024-12-16",
-    "techStacks": [
+      "CSS",
       "JavaScript",
-      "Golang",
-      "ReactJS"
+      "Front-End",
+      "VueJS"
     ],
-    "company": "AIONTECH"
+    "company": "TopDev's Client"
+  },
+  {
+    "title": "[Fresher] FRONTEND ENGINEER",
+    "descriptions": [],
+    "dateCreated": "2024-12-24",
+    "techStacks": [
+      "CSS",
+      "JavaScript",
+      "Front-End",
+      "VueJS"
+    ],
+    "company": "TopDev's Client"
+  },
+  {
+    "title": "DevOps Engineer (All Levels)",
+    "descriptions": [],
+    "dateCreated": "2024-12-24",
+    "techStacks": [
+      "Java",
+      "Python",
+      "AWS"
+    ],
+    "company": "TopDev's Client"
+  },
+  {
+    "title": "Fresher/Junior - Software Engineer C/C++",
+    "descriptions": [],
+    "dateCreated": "2024-12-24",
+    "techStacks": [
+      "Java",
+      "Python",
+      "C/C++"
+    ],
+    "company": "TopDev's Client"
+  },
+  {
+    "title": "Sr. AI Engineer - Remote/Hanoi/Saigon",
+    "descriptions": [],
+    "dateCreated": "2024-12-24",
+    "techStacks": [
+      "Python",
+      "Product",
+      "Database",
+      "AI"
+    ],
+    "company": "PageAI"
+  },
+  {
+    "title": "Technical Architect Manager",
+    "descriptions": [],
+    "dateCreated": "2024-12-24",
+    "techStacks": [
+      "PHP",
+      "Drupal",
+      "Technical Leader"
+    ],
+    "company": "IT CONSULTIS"
+  },
+  {
+    "title": "Trưởng Bộ phận Quản lý An ninh thông tin",
+    "descriptions": [
+      "Mức lương và các chế độ phúc lợi đãi ngộ xứng đáng.",
+      "Bảo hiểm xã hội, bảo hiểm y tế và chế độ nghỉ mát.",
+      "Tổ chức thăm khám, kiểm tra sức khỏe định kỳ miễn phí cho nhân viên hằng năm."
+    ],
+    "dateCreated": "2024-12-24",
+    "techStacks": [
+      "IT Security",
+      "System Security",
+      "Application Security"
+    ],
+    "company": "Ngân Hàng TMCP Đông Á (DongA Bank)"
+  },
+  {
+    "title": "[Hà Nội] Kỹ sư Lập trình (Java/Frontend)",
+    "descriptions": [
+      "Thu nhập từ 200 - 500 triệu/năm",
+      "Teambuilding, nghỉ mát hàng năm....",
+      "Phụ cấp điện thoại, Bảo hiểm XH, BHYT...."
+    ],
+    "dateCreated": "2024-12-24",
+    "techStacks": [
+      "Oracle",
+      "Java",
+      "Spring",
+      "Angular",
+      "TypeScript"
+    ],
+    "company": "Công ty Công nghệ thông tin VNPT (VNPT-IT)"
   }
 ]

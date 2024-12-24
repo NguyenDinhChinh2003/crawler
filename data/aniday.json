@@ -1,5 +1,17 @@
 [
   {
+    "title": "[Remote] Ruby on Rails Engineer",
+    "company": "Công ty TNHH MTV WACONTRE",
+    "detail_link": "https://aniday.com/en/job/remote-ruby-on-rails-engineer-11848",
+    "description": "<h3>Benefit</h3><p></p><h3>Job Overview And Responsibility</h3><p>- Phát triển dự án, sử dụng ngôn ngữ lập trình Ruby on Rails<br>- Báo cáo tiến độ, ước tính giờ làm.<br>- Quản lý công việc, phát triển chức năng theo yêu cầu.<br>- Kiểm tra chất lượng, sửa lỗi.<br>- Chi tiết các nội dung công việc sẽ được trao đổi cụ thể khi phỏng vấn</p><h3>Required Skills and Experience</h3><p>- Trình độ Cao đẳng/Đại học.<br>- Có từ 2 năm kinh nghiệm làm việc về Ruby on Rails<br>- Có kinh nghiệm về Git (bitbucket)<br>- Trình độ tiếng Nhật N2 trở lên, giao tiếp tốt<br>- Có hiểu biết, kiến thức về Server (AWS, Azure,...)</p><h3>Why Candidate should apply this position</h3><p>- Làm việc tại nhà (Full Remote) từ T2 - T6 (8:00 - 17:00)<br>- Tham gia đầy đủ các chế độ bảo hiểm theo quy định<br>- Du lịch công ty hàng năm<br>- Khám sức khỏe định kỳ<br>- Thưởng lễ/tết, lương tháng 13</p>",
+    "techStacks": [
+      "Server",
+      "Japanese",
+      "Ruby on Rails",
+      "Git"
+    ]
+  },
+  {
     "title": "Data Scientist (Full-time remote)",
     "company": "SensorFlow",
     "detail_link": "https://aniday.com/en/job/data-scientist-full-time-remote-11792",
@@ -230,13 +242,6 @@
       "Pattern Making",
       "Communications"
     ]
-  },
-  {
-    "title": "Data Scientist -Manager and Director",
-    "company": "Aniday",
-    "detail_link": "./job-detail.html",
-    "description": "Error fetching description",
-    "techStacks": "Error fetching tech stacks"
   },
   {
     "title": "Data Scientist -Manager and Director",
